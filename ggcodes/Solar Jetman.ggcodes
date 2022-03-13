@@ -1,13 +1,13 @@
 PAKSZLGA, Only 1 ship and 1 life
-AAKSZLGE, 8 ships and 8 lives
-SZXONIVG, Infinite lives
+AAKSZLGE, 8 ships and 8 条命
+SZXONIVG, 无限续命随意浪
 AEXXAVNY, Minimum damage taken from walls
 AEXZGVSY+AEXXAVNY, No damage taken from walls
 ZASSTLAA, Start on level 3
 IASSTLAA, Start on level 6
 AASSTLAE, Start on level 9
 ZASSTLAE, Start on level 11
-AASSZLPE, Start with more money
+AASSZLPE, 开局 more money
 AEUIOXYA+GXKSOZSA, Items for free
 SVEKOVON, Weapons use up no energy
 UNSPLSLE, Reversed gravity for planet 1

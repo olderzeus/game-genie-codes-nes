@@ -3,15 +3,15 @@ GZOGIGSA+ZAEGPLPA, Start at stage 3
 GZOGIGSA+LAEGPLPA, Start at stage 4
 GZOGIGSA+GAEGPLPA, Start at stage 5
 GZOGIGSA+IAEGPLPA, Start at stage 6
-YGNGAKTL+PAVKTGAP, Start with Dual Cannons
-YGNGAKTL+ZAVKTGAP, Start with Laser
-YGNGAKTL+GAVKTGAP, Start with Shoot Right
-YGNGAKTL+AAVKTGAO, Start with Shoot Left
-YGNGAKTL+APVKTGAP, Start with Five Direction Firing
-YGNGAKTL+AZVKTGAP, Start with Three Direction Firing
-YGNGAKTL+AGVKTGAP, Start with Force field
+YGNGAKTL+PAVKTGAP, 开局 Dual Cannons
+YGNGAKTL+ZAVKTGAP, 开局 Laser
+YGNGAKTL+GAVKTGAP, 开局 Shoot Right
+YGNGAKTL+AAVKTGAO, 开局 Shoot Left
+YGNGAKTL+APVKTGAP, 开局 Five Direction Firing
+YGNGAKTL+AZVKTGAP, 开局 Three Direction Firing
+YGNGAKTL+AGVKTGAP, 开局 Force field
 GZNGNLSP, Keep weapons after death
-PAXKPGLA, Start with 1 life
-TAXKPGLA, Start with 6 lives
-PAXKPGLE, Start with 9 lives
-OZVKKLVS, Infinite lives
+PAXKPGLA, 极限挑战 1 条命
+TAXKPGLA, 开局 6 条命
+PAXKPGLE, 开局 9 条命
+OZVKKLVS, 无限续命随意浪

@@ -1,23 +1,23 @@
-PEEPILLA, Start with 1 life instead of 3
-IEEPILLA, Start with 5 lives
-YEEPILLA, Start with 7 lives
-PEEPILLE, Start with 9 lives
-POEPILLE, Start with 25 lives
-ZUEPILLA, Start with 50 lives
-LKEPILLE, Start with 75 lives
-LVEPILLA, Start with 99 lives
-SZEYKVVK, Infinite lives
-AENYVGGE, Every 4 cookies count as 8
-GENYVGGE, Every 4 cookies count as 12
-AONYVGGA, Every 4 cookies count as 16
-GONYVGGA, Every 4 cookies count as 20 (extra life point)
-IAOVUGTA, Extra life with 5 pizza slices instead of 6
-GAOVUGTA, Extra life with 4 pizza slices
-LAOVUGTA, Extra life with 3 pizza slices
-ZAOVUGTA, Extra life with 2 pizza slices
-PAOVUGTA, Extra life with every pizza slice
-SZNYSSVK, Infinite power units/life points
-SZSVLVVK, Become almost invincible after losing 1 life point (can walk thru most enemies--vacuum cleaner can still kill you)
-SZOELKVK, Infinite slides on pick-up
-SZVETKVK, Infinite darts on pick-up
-SZSAAKVK, Infinite flying fists on pick-up
+PEEPILLA, 极限挑战 1 条命
+IEEPILLA, 开局 5 条命
+YEEPILLA, 开局 7 条命
+PEEPILLE, 开局 9 条命
+POEPILLE, 开局 25 条命
+ZUEPILLA, 开局 50 条命
+LKEPILLE, 开局 75 条命
+LVEPILLA, 开局 99 条命
+SZEYKVVK, 无限续命随意浪
+AENYVGGE, 每 4 个点心计为 8
+GENYVGGE, 每 4 个点心计为 12
+AONYVGGA, 每 4 个点心计为 16
+GONYVGGA, 每 4 个点心计为 20
+IAOVUGTA, 每条命额外带 5 片比萨片
+GAOVUGTA, 每条命额外带 4 片披萨片
+LAOVUGTA, 每条命额外带 3 片披萨片
+ZAOVUGTA, 每条命额外带 2 片披萨片
+PAOVUGTA, 每一片比萨饼附带额外生命
+SZNYSSVK, 无限能量、生命
+SZSVLVVK, 在失去 1 点生命值后变得几乎无敌
+SZOELKVK, 拾取滑轨无限量
+SZVETKVK, 拾取飞镖无限量
+SZSAAKVK, 拾取飞拳无限量

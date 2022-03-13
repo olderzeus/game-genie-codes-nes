@@ -1,9 +1,9 @@
-PAUGVILA, Start with 1 life
-TAUGVILA, Start with 6 lives
-PAUGVILE, Start with 9 lives
-PVXKKKLI, Start at last mission reached
-TPVAPXYE, Start with 30 missiles
-IZVAPXYE, Start with 45 missiles
-GXSZAPVG, Start with infinite missiles
-IEVAISYA, Sets missiles to 5 when you refuel
-TOVAISYE, Sets missiles to 30 when you refuel
+PAUGVILA, 极限挑战 1 条命
+TAUGVILA, 开局 6 条命
+PAUGVILE, 开局 9 条命
+PVXKKKLI, 开局即任务已完成
+TPVAPXYE, 开局 30 导弹
+IZVAPXYE, 开局 45 导弹
+GXSZAPVG, 无限导弹随意扔
+IEVAISYA, 加油后 5 颗导弹
+TOVAISYE, 加油后 30 颗导弹

@@ -1,7 +1,3 @@
-PASIOALE, Both players start with 9 rolls
-IESUTYZA, Start with 6 lives, 1-player game only
-AESUTYZE, Start with 9 lives, 1-player game only
-IAKUUAZA, After continue, player 1 has 6 lives in 2-player game
-AAKUUAZE, After continue, player 1 has 9 lives in 2-player game
-IASUOAZA, Player 2 has 6 lives in 2-player game
-AASUOAZE, Player 2 has 9 lives in 2-player game
+IESUTYZA, 开局 6 条命
+AESUTYZE, 开局 9 条命
+PASIOALE, 开局 9 个逃逸

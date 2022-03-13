@@ -1,12 +1,12 @@
-SXSPYZVG, Infinite lives
-PASATLLA, Start with 1 life
-TASATLLA, Start with double lives
-PASATLLE, Start with triple lives
-NYKAYLLE, Start with all weapons available
-GZNAILSA, Keep power up after death
-GZNAYLSA, Keep energy after death
-GAEOUEAA, Thunder uses 25% normal energy
-TEXLPTZA, Triple energy gained on 'E' pick-up
-ZEULGTGA, Less energy lost on 'Bad E' pick-ups
-SZEGGASA, Shield doesn't use energy
-IZNAEGSA, You can re-use weapon after selecting
+SXSPYZVG, 无限续命随意浪
+PASATLLA, 极限挑战 1 条命
+TASATLLA, 开局 2 条命
+PASATLLE, 开局 3 条命
+NYKAYLLE, 开局全装备
+GZNAILSA, 掉命不减威力
+GZNAYLSA, 掉命不减能量
+GAEOUEAA, 雷电仅损耗 25% 能量
+TEXLPTZA, 拾取 'E' 获得三倍能量
+ZEULGTGA, 拾取 'Bad E' 损失降低
+SZEGGASA, 盾牌不耗能量
+IZNAEGSA, 选取后可重复使用武器

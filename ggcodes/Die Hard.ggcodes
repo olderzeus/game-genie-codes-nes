@@ -1,25 +1,25 @@
-SXEZTYSA, Lose no life points when shot with pistol
-SXOZIYSA, Lose no life points when shot with submachine gun
-SXXZLYSA, Lose no life points when punched
-PEOKIPAP, Start with 1 life point instead of 16
-ZEOKIPAP, Start with 2 life points
-GEOKIPAP, Start with 4 life points
-AEOKIPAO, Start with 8 life point
-GEOKIPAO, Start with 12 life points
-GOOKIPAP, Start with 20 life points
-SXOYYUSE, Lose foot health very slowly
-AEXGPOYA, Start with no pistol shots instead of 15
-IEXGPOYA, Start with 5 pistol shots
-ZEXGPOYE, Start with 10 pistol shots
-GOXGPOYA, Start with 20 pistol shots
-POXGPOYE, Start with 25 pistol shots
-ATNALXVG, Infinite pistol shots
-ATNEIXVG, Infinite submachine gun shots
-ATVEIZSZ, Infinite shots on all guns
-ENUYPOGL, Run timer down at 1/4 normal speed
-KUUYPOGL, Run timer down at 1/3 normal speed
-ANUYPOGU, Run timer down at 1/2 normal speed
-TOUYPOGU, Run timer down at 2x normal speed
-GOUYPOGL, Run timer down at 3x normal speed
-YEUYPOGU, Run timer down at 4x normal speed
-AVUNGPSZ, Freeze timer
+SXEZTYSA, 用手枪射击时不掉命
+SXOZIYSA, 用冲锋枪射击时不掉命
+SXXZLYSA, 被击打时不掉命
+PEOKIPAP, 极限挑战 1 条命
+ZEOKIPAP, 开局 2 条命
+GEOKIPAP, 开局 4 条命
+AEOKIPAO, 开局 8 条命
+GEOKIPAO, 开局 12 条命
+GOOKIPAP, 开局 20 条命
+SXOYYUSE, 脚部健康损伤较慢
+AEXGPOYA, 开局没有手枪子弹
+IEXGPOYA, 开局 5 手枪子弹
+ZEXGPOYE, 开局 10 手枪子弹
+GOXGPOYA, 开局 20 手枪子弹
+POXGPOYE, 开局 25 手枪子弹
+ATNALXVG, 手枪子弹不限量
+ATNEIXVG, 机枪子弹不限量
+ATVEIZSZ, 子弹不限量
+ENUYPOGL, 计时减慢到 1/4 速度
+KUUYPOGL, 计时减慢到 1/3 速度
+ANUYPOGU, 计时减慢到 1/2 速度
+TOUYPOGU, 计时加快到 2 倍速度
+GOUYPOGL, 计时加快到 3 倍速度
+YEUYPOGU, 计时加快到 4 倍速度
+AVUNGPSZ, 计时器停止

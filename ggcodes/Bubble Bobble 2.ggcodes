@@ -1,24 +1,22 @@
-PEXEEALA, 1 life--player 1
-TEXEEALA, 6 lives--player 1
-PEXEEALE, 9 lives--player 1
-TEVATZLA, 6 lives--player 2
-PEVATZLE, 9 lives--player 2
-SZNOASVK, Infinite lives--both players
-LEXAUAPA+LESOZTPA, Start each life with 3 hearts
-IEXAUAPA+IESOZTPA, Start each life with 5 hearts
-OXXANUPX, Blow bubbles further
-IEKEGZPA, Start on level 5
-ZEKEGZPE, Start on level 10
-YEKEGZPE, Start on level 15
-GOKEGZPA, Start on level 20
-POKEGZPE, Start on level 25
-TOKEGZPE, Start on level 30
-AXKEGZPE, Start on level 40
-IXKEGZPE, Start on level 45
-ZUKEGZPA, Start on level 50
-YUKEGZPA, Start on level 55
-GUKEGZPE, Start on level 60
-PKKEGZPA, Start on level 65
-TKKEGZPA, Start on level 70
-LKKEGZPE, Start on level 75
-ASKEGZPA, Start on level 80
+PEXEEALA, 极限挑战 1 条命
+TEXEEALA, 开局 6 条命
+PEXEEALE, 开局 9 条命
+SZNOASVK, 无限续命随意浪
+LEXAUAPA+LESOZTPA, 每条命初始 3 心
+IEXAUAPA+IESOZTPA, 每条命初始 5 心
+OXXANUPX, 增强吹泡泡
+ZEKEGZPE, 从第 10 关开始
+GOKEGZPA, 从第 20 关开始
+TOKEGZPE, 从第 30 关开始
+AXKEGZPE, 从第 40 关开始
+ZUKEGZPA, 从第 50 关开始
+GUKEGZPE, 从第 60 关开始
+TKKEGZPA, 从第 70 关开始
+ASKEGZPA, 从第 80 关开始
+IEKEGZPA, 从第 5 关开始
+YEKEGZPE, 从第 15 关开始
+POKEGZPE, 从第 25 关开始
+IXKEGZPE, 从第 45 关开始
+YUKEGZPA, 从第 55 关开始
+PKKEGZPA, 从第 65 关开始
+LKKEGZPE, 从第 75 关开始

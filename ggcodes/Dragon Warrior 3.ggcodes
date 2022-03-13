@@ -1,43 +1,44 @@
-NYUOYPZU, King gives 255 gold
-PASPZPAA, King gives mega-gold
-YTVUGZYE, Player starts with increased strength and/or attack power
-VYVUGZYE, Player starts with greatly increased strength and/or attack power
-LTNLPZIA, Player starts with increased agility and/or defense
-NYNLPZIE, Player starts with greatly increased agility and/or defense
-LTNLTZYA, Player starts with increased vitality and/or hit points
-NYNLTZYE, Player starts with greatly increased vitality and/or hit points
-LTNULZTA, Player starts with increased magic, maximum magic points and/or intelligence
-NYNULZTE, Player starts with greatly increased magic, maximum magic points and/or intelligence
-ZVELAZGA, Player starts with increased luck
-VNELAZGE, Player starts with greatly increased luck
-LTVUIZPA, Wizard starts with increased strength and/or attack power
-VYVUIZPE, Wizard starts with greatly increased strength and/or attack power
-ZTNLZZGA, Wizard starts with increased agility and/or defense
-NYNLZZGE, Wizard starts with greatly increased agility and/or defense
-ZTNLYZZA, Wizard starts with increased vitality and/or maximum hit points
-OPNLYZZE, Wizard starts with greatly increased vitality and/or maximum hit points
-LTNUGXPA, Wizard starts with increased magic, intelligence and/or maximum magic
-LVELPZZA, Wizard starts with increased luck
-VNELPZZE, Wizard starts with greatly increased luck
-ZTVUTZLA, Pilgrim starts with increased strength and/or attack power
-VYVUTZLE, Pilgrim starts with greatly increased strength and/or attack power
-ZTNLLZGA, Pilgrim starts with increased agility and/or defense
-LTNUAZLA, Pilgrim starts with increased vitality and/or maximum hit points
-VYNUAZLE, Pilgrim starts with greatly increased vitality and/or maximum hit points
-LTNUIXAA, Pilgrim starts with increased magic and/or intelligence
-VYNUIXAE, Pilgrim starts with greatly increased magic and/or intelligence
-ZVELZZLA, Pilgrim starts with increased luck
-VNELZZLE, Pilgrim starts with greatly increased luck
-LTNLAXPA, Soldier starts with increased strength and/or attack power
-VYNLAXPE, Soldier starts with greatly increased strength and/or attack power
-ZTNLIZZA, Soldier starts with increased agility and/or defense
-LTNUZZYA, Soldier starts with increased vitality and/or maximum hit points
-IAOZENNY, Start with 6 battle-axes
-TAOZENNY, Start with 6 broadswords
-YAOZENNY, Start with 6 wizard's wands
-YAOZENNN, Start with 6 demon's axes
-GPOZENNY, Start with 6 multi-edge swords
-IPOZENNY, Start with 6 staffs of force
-TPOZENNY, Start with 6 swords of illusion
-APOZENNN, Start with 6 falcon swords
-AZOZENNN, Start with 6 armor of radiance
+NYUOYPZU, 国王赠送 255 黄金
+PASPZPAA, 国王赠送超级多黄金
+IAOZENNY, 开局 6 战斧
+TAOZENNY, 开局 6 大刀
+YAOZENNY, 开局 6 魔杖
+YAOZENNN, 开局 6 恶魔之斧
+GPOZENNY, 开局 6 多刃剑
+IPOZENNY, 开局 6 武装人员
+TPOZENNY, 开局 6 幻觉之剑
+APOZENNN, 开局 6 猎鹰剑
+AZOZENNN, 开局 6 光辉盔甲
+YTVUGZYE，玩家力量、攻击力强
+VYVUGZYE，玩家力量、攻击力最强
+LTNLPZIA，玩家敏捷、防御强
+NYNLPZIE，玩家敏捷、防御最强
+LTNLTZYA，玩家生命、生命值强
+NYNLTZYE，玩家生命、生命值最强
+LTNULZTA，玩家魔法、最大魔法、智力强
+NYNULZTE，玩家魔法、最大魔法、智力最强
+ZVELAZGA，玩家运气好
+VNELAZGE，玩家运气最好
+LTVUIZPA，巫师力量、攻击力强
+VYVUIZPE，法师力量、攻击力最强
+ZTNLZZGA，巫师敏捷、防御强
+NYNLZZGE，法师敏捷、防御力最强
+ZTNLYZZA，法师生命、最大生命值强
+OPNLYZZE，法师生命、最大生命值最强
+LTNUGXPA，法师魔法、智力、最大魔法最强
+LVELPZZA，法师运气好
+VNELPZZE，法师运气最好
+ZTVUTZLA，朝圣者力量、攻击力强
+VYVUTZLE，朝圣者力量、攻击力最强
+ZTNLLZGA，朝圣者敏捷、防御强
+LTNUAZLA，朝圣者生命、最大生命值强
+VYNUAZLE，朝圣者生命、最大生命值最强
+LTNUIXAA，朝圣者魔法、智力强
+VYNUIXAE，朝圣者魔法、智力最强
+ZVELZZLA，朝圣者运气好
+VNELZZLE，朝圣者运气最好
+LTNLAXPA，士兵力量、攻击力强
+VYNLAXPE，士兵力量、攻击力最强
+ZTNLIZZA，士兵敏捷、防御强
+LTNUZZYA，士兵生命、最大生命值最强
+

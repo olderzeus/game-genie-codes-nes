@@ -1,10 +1,10 @@
-PESEPTLA, 1 strike and you're out
-ZESEPTLA, 2 strikes and you're out
-IESEPTLA, 5 strikes and you're out
-SZVAYTVT, Strikes aren't counted
-SZNAATVT, Balls aren't counted
-PESALTGA, 1 ball and you walk
-ZESALTGA, 2 balls and you walk
-LESALTGA, 3 balls and you walk
-PESALTGE, 9 balls and you walk
-OXVZITVV, Strike outs aren't allowed
+PESEPTLA, 1 好球出局
+ZESEPTLA, 2 好球出局
+IESEPTLA, 5 好球出局
+SZVAYTVT, 再多好球也不出局
+SZNAATVT, 不计坏球
+PESALTGA, 1 坏球保送上垒
+ZESALTGA, 2 坏球保送上垒
+LESALTGA, 3 坏球保送上垒
+PESALTGE, 9 坏球保送上垒
+OXVZITVV, 再多坏球也不保送上垒

@@ -1,8 +1,8 @@
-AAUNYLPA, Freeze the timer countdown
-AEUTLZZA, Start game with 1 life
-IEUTLZZA, Start game with 6 lives
-AEUTLZZE, Start game with 9 lives
-XTKNXEZK, More energy for player 2 or the CPU
-XTKYOEZK, More energy for player 1
-AZUYZLAL, Timer will count down fast
-APUYZLAL, Timer will count down super-fast
+AAUNYLPA, 计时器停止
+AEUTLZZA, 极限挑战 1 条命
+IEUTLZZA, 开局 6 条命
+AEUTLZZE, 开局 9 条命
+XTKYOEZK, 更多能量的玩家 1
+AZUYZLAL, 计时器加速
+APUYZLAL, 计时器超级加速
+XTKNXEZK, 更多能量的玩家 2 或 CPU

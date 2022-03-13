@@ -1,16 +1,16 @@
-AEVTIPLA, Only 15 points required to win game
-PEVTIPLA, Only 30 points required to win game
-ZEVTIPLA, Only 40 points required to win game
-AEEVAZTA, Only 1 game required to win set instead of 6
-PEEVAZTA, Only 2 games required to win set
-ZEEVAZTA, Only 3 games required to win set
-GEEVAZTA, Only 4 games required to win set
-IEEVAZTA, Only 5 games required to win set
-EEVVIPEI, Must get 2 points after 40 to win and no duece (always shows advantage after 40)
-PEKVGPZA, Don't need to win by 2 to win tiebreaker
-ZEUVIPYA, 2 points needed to win tiebreaker instead of 7
-LEUVIPYA, 3 points needed to win tiebreaker
-GEUVIPYA, 4 points needed to win tiebreaker
-IEUVIPYA, 5 points needed to win tiebreaker
-TEUVIPYA, 6 points needed to win tiebreaker
-ZEUVIPYE, 10 points needed to win tiebreaker
+AEVTIPLA, 赢得比赛只需 15 分
+PEVTIPLA, 赢得比赛只需 30 分
+ZEVTIPLA, 赢得比赛只需要40分
+AEEVAZTA, 赢得一盘比赛只需要一场
+PEEVAZTA, 只需要 2 场比赛即可获胜
+ZEEVAZTA, 只需 3 场比赛即可获胜
+GEEVAZTA, 只需要 4 场比赛即可获胜
+IEEVAZTA, 只需 5 场比赛即可获胜
+EEVVIPEI, 必须在 40 后获得 2 分才能获胜
+PEKVGPZA, 无需以 2 分获胜即可赢得决胜局
+ZEUVIPYA, 赢得决胜局需要 2 分
+LEUVIPYA, 赢得决胜局需要 3 分
+GEUVIPYA, 赢得决胜局需要 4 分
+IEUVIPYA, 赢得决胜局需要 5 分
+TEUVIPYA, 赢得决胜局需要 6 分
+ZEUVIPYE, 赢得决胜局需要 10 分

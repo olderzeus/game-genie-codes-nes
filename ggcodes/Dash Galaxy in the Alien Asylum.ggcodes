@@ -1,18 +1,18 @@
-SZVPTOVK, Can't lose lives in rooms
-SZUPLOVK, Can't lose lives in elevator shaft
-PENPIALA, Start with 1 life
-TENPIALA, Start with 6 lives
-PENPIALE, Start with 9 lives
-NYSXAOAN, Oxygen used up more slowly in shaft
-AYXXSNNY, Oxygen used up more quickly in rooms
-AAEPZIPA, Won't take damage from shots and collisions
-OZEPOISE+IAEPXSVI, Start on level 5
-OZEPOISE+ZAEPXSVS, Start on level 10
-OZEPOISE+YAEPXSVS, Start on level 15
-OZEPOISE+GPEPXSVI, Start on level 20
-VTNSEXSX, Infinite bombs in elevator shaft
-VVVSXXSX, Infinite bombs in rooms
-VVOSSXSX, Infinite detonators in shafts
-VTESNUSX, Infinite detonators in rooms
-VTEZIKSX, Infinite keys in shafts
-VVOXTOSX, Infinite keys in rooms
+SZVPTOVK, 房间里不掉命
+SZUPLOVK, 竖井中不掉命
+PENPIALA, 极限挑战 1 条命
+TENPIALA, 开局 6 条命
+PENPIALE, 开局 9 条命
+NYSXAOAN, 竖井中氧气消耗较慢
+AYXXSNNY, 房间里氧气消耗更快
+AAEPZIPA, 不受枪击和碰撞伤害
+VTNSEXSX, 无限炸弹（竖井中）
+VVVSXXSX, 无限炸弹（房间里）
+VVOSSXSX, 无限雷管（竖井中）
+VTESNUSX, 无限雷管（房间里）
+VTEZIKSX, 无限钥匙（竖井中）
+VVOXTOSX, 无限钥匙（房间里）
+OZEPOISE+IAEPXSVI, 从第 5 关开始
+OZEPOISE+ZAEPXSVS, 从第 10 关开始
+OZEPOISE+YAEPXSVS, 从第 15 关开始
+OZEPOISE+GPEPXSVI, 从第 20 关开始

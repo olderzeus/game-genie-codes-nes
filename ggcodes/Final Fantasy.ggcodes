@@ -1,36 +1,36 @@
-SZULIEVS, "LIFE" Spell never uses up Magic Points
-SZVULEVS, "LIF2" Spell never uses up Magic Points
-TESGTYZA, Magic Users start with 6 Magic Points
-PESGTYZE, Magic Users start with 9 Magic Points
-ELEXVLEY+AESGANGA+AESGGNAA, Non-magic users can use Level 1 Magic
-AZOUGAEP+LAOUIAPA, Start with 800 Gold
-TGKLPALZ, Double Fighter Hit Points
-GPKUAEZA, Double Fighter's Hit
-ZTKUPAIU, Double Fighter's Evade
-ZAKLTAIE, Double Fighter's Luck
-GLSLPETO, Double Thief's Hit Points
-TASLYAZA, Triple Thief's Damage
-ZASUAAIE, Double Thief's Hit
-GYSUPEZL, Double Thief's Evade
-TPSLTEYE, Double Thief's Luck
-ZGVLPAPZ, Double Black Belt's Hit Points
-TAVLYAZA, Triple Black Belt's Damage
-ZAVUAAIE, Double Black Belt's Hit
-ZTVUPAIU, Double Black Belt's Evade
-ZAVLTAIE, Double Black Belt's Luck
-GLNLPETO, Double Red Mage's Hit Points
-ZANLYAIE, Double Red Mage's Damage
-TANUAAYE, Double Red Mage's Hit
-GYNUPEZL, Double Red Mage's Evade
-ZANLTAIE, Double Red Mage's Luck
-AUELPEGO, Double White Mage's Hit Points
-TEELYAZA, Triple White Mage's Damage
-ZEEUAAIE, Double White Mage's Hit
-ZVEUPAIU, Double White Mage's Evade
-ZEELTAIE, Double White Mage's Luck
-ZUOLPEPP, Double Black Mage's Hit Points
-LEOLYAPA, Triple Black Mage's Damage
-ZEOUAAIE, Double Black Mage's Hit
-GNOUPEZL, Double Black Mage's Evade
-GOOLTEZA, Double Black Mage's Luck
-GXSZPKSV+GXSXZKSV, Almost infinite Gold
+SZULIEVS, “生命”法术从不消耗魔法点数
+SZVULEVS, “LIF2”法术从不消耗魔法点数
+TESGTYZA, 魔法使用者开局 6 魔法点
+PESGTYZE, 魔法使用者开局 9 魔法点
+ELEXVLEY+AESGANGA+AESGGNAA, 非魔法用户可以使用 1 级魔法
+AZOUGAEP+LAOUIAPA, 开局 800 金
+TGKLPALZ, 双倍斗士生命值
+GPKUAEZA, 双倍斗士的打击
+ZTKUPAIU, 双倍斗士的回避
+ZAKLTAIE, 双倍斗士的运气
+GLSLPETO, 双倍盗贼的生命值
+TASLYAZA, 三倍盗贼的伤害
+ZASUAAIE, 双倍贼一击
+GYSUPEZL, 双倍重盗贼的回避
+TPSLTEYE, 双倍盗之运
+ZGVLPAPZ, 双倍黑带的生命值
+TAVLYAZA, 三倍黑带伤害
+ZAVUAAIE, 双倍黑带的命中
+ZTVUPAIU, 双倍黑带的回避
+ZAVLTAIE, 双倍黑带之运
+GLNLPETO, 双倍红法师的生命值
+ZANLYAIE, 双倍红法师的伤害
+TANUAAYE, 双倍红法师的命中
+GYNUPEZL, 双倍红法师的回避
+ZANLTAIE, 双倍红法师的幸运
+AUELPEGO, 双倍白魔法师的生命值
+TEELYAZA, 三倍白魔法师的伤害
+ZEEUAAIE, 双倍白魔法师的命中
+ZVEUPAIU, 双倍白魔法师的闪避
+ZEELTAIE, 双倍白魔法师的幸运
+ZUOLPEPP, 双倍黑魔法师的生命值
+LEOLYAPA, 三倍黑魔法师的伤害
+ZEOUAAIE, 双倍重黑魔法师的命中
+GNOUPEZL, 双倍重黑魔法师的回避
+GOOLTEZA, 双倍重黑魔法师的幸运
+GXSZPKSV+GXSXZKSV, 几乎无限金币

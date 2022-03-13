@@ -1,9 +1,9 @@
-PENVIGGA, Start with 2 lives instead of 5, outside levels
-PENVIGGE, Start with 10 lives, outside levels
-SXNLYVVK, Infinite lives, outside levels
-SZSUGVVK, Infinite lives, inside levels
-PAETITGE, Start with 10 lives, inside levels
-PAETITGA, Start with 2 lives, inside levels
-SZNXGXVK+SZVXPKVK, Infinite power, outside levels
-SXXXEUVK+SZEUGKVK, Infinite power, inside levels
-AANVAEGZ, Start inside level 1 instead of outside.
+PENVIGGA, 外部关卡开局 2 条命
+PAETITGA, 内部关卡开局 2 条命
+PENVIGGE, 外部关卡开局 10 条命
+PAETITGE, 内部关卡开局 10 条命
+SXNLYVVK, 外部关卡无限续命
+SZSUGVVK, 内部关卡无限续命
+SZNXGXVK+SZVXPKVK, 外部关卡无限能量
+SXXXEUVK+SZEUGKVK, 内部关卡无限能量
+AANVAEGZ, 从内部关卡 1 开始

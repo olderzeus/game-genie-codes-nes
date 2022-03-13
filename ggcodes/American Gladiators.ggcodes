@@ -1,27 +1,20 @@
-PEXALTIA, Start with 1 life--player 1
-AEXALTIE, Start with 8 lives--player 1
-ZEXALTIE, Start with 10 lives--player 1
-GOXALTIA, Start with 20 lives--player 1
-PEVALTIA, Start with 1 life--player 2
-AEVALTIE, Start with 8 lives--player 2
-ZEVALTIE, Start with 10 lives--player 2
-GOVALTIA, Start with 20 lives--player 2
-PEXAPTAA, Start on level 2--player 1
-ZEXAPTAA, Start on level 3--player 1
-LEXAPTAA, Start on level 4--player 1
-PEVAPTAA, Start on level 2--player 2
-ZEVAPTAA, Start on level 3--player 2
-LEVAPTAA, Start on level 4--player 2
-GLUOZGLV, Less joust time
-GZXXLUVK, Stop joust timer
-GLOEGALV, Less cannonball time
-GZEPGOVK, Stop cannonball time
-GLKXXZLV, Less wall time
-GXOXEXVS, Stop wall timer
-LTXATNIL, More assault time
-PZXATNIU, Less assault time
-GZSAINVK, Stop assault timer
-LTSOZOIL, More power ball time--level 1
-LTSOLOAL, More power ball time--level 2
-LTSOGPLL, More power ball time--level 3
-LTSOIOTZ, More power ball time--level 4
+PEXALTIA, 极限挑战 1 条命
+AEXALTIE, 开局 8 条命
+ZEXALTIE, 开局 10 条命
+GOXALTIA, 开局 20 条命
+GLUOZGLV, 格斗时间更短
+GZXXLUVK, 格斗时间停止
+GLOEGALV, 炮弹时间更短
+GZEPGOVK, 炮弹时间停止
+GLKXXZLV, 阻挡时间更短
+GXOXEXVS, 阻挡时间停止
+LTXATNIL, 攻击时间更长
+PZXATNIU, 攻击时间更短
+GZSAINVK, 攻击时间停止
+LTSOZOIL, 更长力量球时间 - 1 级
+LTSOLOAL, 更长力量球时间 - 2 级
+LTSOGPLL, 更长力量球时间 - 3 级
+LTSOIOTZ, 更长力量球时间 - 4 级
+PEXAPTAA, 从第 2 关开始
+ZEXAPTAA, 从第 3 关开始
+LEXAPTAA, 从第 4 关开始

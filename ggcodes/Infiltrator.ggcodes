@@ -1,11 +1,11 @@
-ZPSLPXZA, Start with more Grenades
-IASLPXZA, Start with fewer Grenades
-AASLPXZA, Start with no Grenades
-LPKUIZTZ, Start with less Spray
-AAKUIZTZ, Start with no Spray
-SXKXXIVG, Never lose Grenades outside buildings
-SZVKAIVG, Never lose Grenades inside buildings
-SXUXKIVG, Never lose Spray outside buildings
-SZUKYIVG, Never lose Spray inside buildings
-SZKLIKVK, Stop timer
-ILOULXPL, Start with less time
+ZPSLPXZA, 开局更多手榴弹
+IASLPXZA, 开局更少手榴弹
+AASLPXZA, 开局无手榴弹
+LPKUIZTZ, 开局少喷雾
+AAKUIZTZ, 开局无喷雾
+SXKXXIVG, 不在建筑物外丢失手榴弹
+SZVKAIVG, 不在建筑物内丢失手榴弹
+SXUXKIVG, 不在建筑物外丢失喷雾
+SZUKYIVG, 不在建筑物内丢失喷雾
+SZKLIKVK, 停止计时器
+ILOULXPL, 开局时间少

@@ -1,13 +1,10 @@
-GZUKYPVG, Infinite lives for both players
-GZKSLZVG, Freeze weapon timer
-PEUKPZLA, Player 1 start with 1 life
-PEKGGZLA, Player 2 start with 1 life
-TEUKPZLA, Player 1 start with 6 lives
-TEKGGZLA, Player 2 start with 6 lives
-PEUKPZLE, Player 1 start with 9 lives
-PEKGGZLE, Player 2 start with 9 lives
-ZANKLZPA, Start game on level 2
-LANKLZPA, Start game on level 3
-GANKLZPA, Start game on level 4
-IANKLZPA, Start game on level 5
-LTUKTLAA, Start each life with 3-way firing and 99 seconds
+GZUKYPVG, 无限续命随意浪
+GZKSLZVG, 武器计时器停止
+PEUKPZLA, 极限挑战 1 条命
+TEUKPZLA, 开局 6 条命
+PEUKPZLE, 开局 9 条命
+ZANKLZPA, 从第 2 关开始
+LANKLZPA, 从第 3 关开始
+GANKLZPA, 从第 4 关开始
+IANKLZPA, 从第 5 关开始
+LTUKTLAA, 开局散弹枪和 99 秒计时

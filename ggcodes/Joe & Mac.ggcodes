@@ -1,21 +1,21 @@
-PEUXYALA, Start with 1 life instead of 3--player 1
-IEUXYALA, Start with 5 lives--player 1
-YEUXYALA, Start with 7 lives--player 1
-PEUXYALE, Start with 9 lives--player 1
-SZNXTEVK, Infinite lives--both players
-SZKVOKVK, Protection from most enemy hits
-SXUVYVVK, Protection from water
-AEXZGLAO, Start with 1/2 energy (die when bar is 1/2 empty)
-AAKUEAPE, Stone axe and flint do more damage to bosses
-YAKUEAPE, Stone axe and flint do a lot more damage to bosses
-AASLOAZE, Stone wheel and boomerang do more damage to bosses
-APSLOAZA, Stone wheel and boomerang do a lot more damage to bosses
-APSLVAGA, Fire does more damage to bosses
-AZSLVAGA, Fire does a lot more damage to bosses
-SZVTKUSE, Apple and hamburger worth nothing
-AAVTULAO, Apple and hamburger restore energy to 1/2
-OVUXZAET, Start with stone wheel instead of stone axe--player 1
-XVUXZAET, Start with flint instead of stone axe--player 1
-UVUXZAET, Start with fire instead of stone axe--player 1
-KVUXZAET, Start with boomerang instead of stone axe--player 1
-ZEKZGAAA, Start somewhere in level 2
+PEUXYALA, 极限挑战 1 条命
+IEUXYALA, 开局 5 条命
+YEUXYALA, 开局 7 条命
+PEUXYALE, 开局 9 条命
+SZNXTEVK, 无限续命随意浪
+SZKVOKVK, 抵御大多数敌人的攻击
+SXUVYVVK, 不怕水
+AEXZGLAO, 开局 1/2 能量
+AAKUEAPE, 石斧和燧石对 BOSS 伤害更大
+YAKUEAPE, 石斧和燧石对 BOSS 伤害巨大
+AASLOAZE, 石轮和回旋镖对 BOSS 伤害更大
+APSLOAZA, 石轮和回旋镖对 BOSS 伤害巨大
+APSLVAGA, 火对 BOSS 伤害更大
+AZSLVAGA, 火对 BOSS 伤害巨大
+SZVTKUSE, 苹果和汉堡一文不值
+AAVTULAO, 苹果和汉堡恢复一半能量
+OVUXZAET, 开局石轮代替石斧
+XVUXZAET, 开局打火石代替石斧
+UVUXZAET, 开局用火代替石斧
+KVUXZAET, 开局回旋镖代替石斧
+ZEKZGAAA, 从 2 级开始

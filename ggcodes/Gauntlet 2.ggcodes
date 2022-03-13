@@ -1,12 +1,12 @@
-OTXSSYSV, Don't take damage from monsters
-OTXSSYSV+ZAXSVYAA, Take less damage from monsters
-ZLVVVIGT, Weaker poison
-EGVVVIGV, Stronger poison
-IAUTEUZA, 5 super shots picked up
-GPUTEUZA, 20 super shots picked up
-AYETVUGU, Invincibility lasts longer
-LPETVUGU, Invincibility doesn't last as long
-ANNTUXGU, Repulsiveness lasts longer
-LONTUXGU, Repulsiveness doesn't last as long
-AYOTKUGU, Invisibility lasts longer
-LPOTKUGU, Invisibility doesn't last as long
+OTXSSYSV, 不要受到怪物的伤害
+OTXSSYSV+ZAXSVYAA, 减少受到怪物的伤害
+ZLVVVIGT, 更弱的毒药
+EGVVVIGV, 更强的毒药
+IAUTEUZA, 拾取 5 个射击
+GPUTEUZA, 拾取 20 个射击
+AYETVUGU, 无敌持续更长时间
+LPETVUGU, 无敌不会持续那么久
+ANNTUXGU, 恶心持续时间更长
+LONTUXGU, 恶心不会持续那么久
+AYOTKUGU, 隐形持续时间更长
+LPOTKUGU, 隐形不会持续那么久

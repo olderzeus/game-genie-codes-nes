@@ -1,25 +1,25 @@
-SZSSZSVV, Strikes do not count
-SXSITKVV, Balls do not count
-PAVIPILA, One strike for an out
-ZAVIPILA, Two strikes for an out
-GAVIPILA, Four strikes for an out
-IAVIPILA, Five strikes for an out (only 3 show on screen)
-PESSIGGA, One ball for a walk
-ZESSIGGA, Two balls for a walk
-LESSIGGA, Three balls for a walk
-IESSIGGA, Five balls for a walk (only 3 show on screen)
-TESSIGGA, Six balls for a walk (only 3 show on screen)
-PANILTLA, One out per side instead of 3
-ZANILTLA, Two outs per side
-GANILTLA, Four outs per side
-PAOAILLA, One out per side instead of 3
-ZAOAILLA, Two outs per side
-GAOAILLA, Four outs per side
-PEXPVGLZ, Game ends after 1 inning
-LEXPVGLZ, Game ends after 2 innings
-TEXPVGLZ, Game ends after 3 innings
-AEXPVGLX, Game ends after 4 innings
-ZEXPVGLX, Game ends after 5 innings
-GEXPVGLX, Game ends after 6 innings
-TEXPVGLX, Game ends after 7 innings
-AOXPVGLZ, Game ends after 8 innings
+SZSSZSVV, 不计好球
+SXSITKVV, 不计坏球
+PAVIPILA, 1 好球即出局
+ZAVIPILA, 2 好球即出局
+GAVIPILA, 4 好球才出局
+IAVIPILA, 5 好球才出局
+PESSIGGA, 1 坏球保送上垒
+ZESSIGGA, 2 坏球保送上垒
+LESSIGGA, 3 坏球保送上垒
+IESSIGGA, 5 坏球才保送上垒
+TESSIGGA, 6 坏球才保送上垒
+PANILTLA, 每局 1 出局数
+ZANILTLA, 每局 2 出局数
+GANILTLA, 每局 4 出局数
+PAOAILLA, 每局 1 出局数
+ZAOAILLA, 每局 2 出局数
+GAOAILLA, 每局 3 出局数
+PEXPVGLZ, 每场只比 1 局
+LEXPVGLZ, 每场只比 2 局
+TEXPVGLZ, 每场只比 3 局
+AEXPVGLX, 每场只比 4 局
+ZEXPVGLX, 每场只比 5 局
+GEXPVGLX, 每场只比 6 局
+TEXPVGLX, 每场只比 7 局
+AOXPVGLZ, 每场只比 8 局

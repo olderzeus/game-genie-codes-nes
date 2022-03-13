@@ -1,14 +1,14 @@
-PAXGXALA, Start with 1 life
-TAXGXALA, Start with 6 lives
-PAXGXALE, Start with 9 lives
-SXSVIZVG, Infinite lives using helicopter
-SZVVGTVG, Infinite lives using jeep
+PAXGXALA, 极限挑战 1 条命
+TAXGXALA, 开局 6 条命
+PAXGXALE, 开局 9 条命
+SXSVIZVG, 无限续命随意浪 using helicopter
+SZVVGTVG, 无限续命随意浪 using jeep
 PEEGSPLA, 1 life using helicopter after continue
-TEEGSPLA, 6 lives using helicopter after continue
-PEEGSPLE, 9 lives using helicopter after continue
+TEEGSPLA, 6 条命 using helicopter after continue
+PEEGSPLE, 9 条命 using helicopter after continue
 PEOKNPLA, 1 life using jeep after continue
-TEOKNPLA, 6 lives using jeep after continue
-PEOKNPLE, 9 lives using jeep after continue
+TEOKNPLA, 6 条命 using jeep after continue
+PEOKNPLE, 9 条命 using jeep after continue
 PAXKEAAA, Start at stage 2
 ZAXKEAAA, Start at stage 3
 LAXKEAAA, Start at stage 4

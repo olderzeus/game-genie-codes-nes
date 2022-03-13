@@ -1,9 +1,9 @@
-SZNXGUVV, Balls do not count
-SXOXYUVV, Strikes do not count
-PEOXGLZA, 2 strikes and you're out
-LEOXGLZA, 4 strikes and you're out
-AANZGLLA, 1 ball and you walk
-PANZGLLA, 2 balls and you walk
-ZANZGLLA, 3 balls and you walk
-PANPUTAA+PEOETGAA, Some batters start with count of 1 and 1
-ZANPUTAA+ZEOETGAA, Some batters start with count of 2 and 2
+SZNXGUVV, 坏球不计数
+SXOXYUVV, 好球不计数
+PEOXGLZA, 2 好球出局
+LEOXGLZA, 4 好球出局
+AANZGLLA, 1 坏球保送上垒
+PANZGLLA, 2 坏球保送上垒
+ZANZGLLA, 3 坏球保送上垒
+PANPUTAA+PEOETGAA, 有时候 1 好 1 坏开始
+ZANPUTAA+ZEOETGAA, 有时候 2 好 2 坏开始

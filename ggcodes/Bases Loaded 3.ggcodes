@@ -1,10 +1,9 @@
-SXOPSEVV, Some strikes aren't counted
-AEOPXAZA, 1 strike and you're out
-PEOPXAZA, 2 strikes and you're out
-SXKOXEVV, Balls aren't counted
-SXOAIUVV, Strike outs aren't counted
-PEOEGLLA, Each strike out counts as 3 outs (Same as code 9)
-ZEOEGLLA, Each strike out counts as 2 outs
-IEOEGLLA, 5 strike outs allowed
-PEOEGLLA, 9 strike outs allowed (Same as code 6)
-SZSYGNVV+SZSNTNVN, Computer can't score
+SXOPSEVV, 有些好球不计数
+AEOPXAZA, 1 好球出局
+PEOPXAZA, 2 好球出局
+SXKOXEVV, 坏球不计数
+SXOAIUVV, 三振不计出局
+PEOEGLLA, 三振计 3 出局
+ZEOEGLLA, 三振计 2 出局
+IEOEGLLA, 允许 5 个三振出局
+SZSYGNVV+SZSNTNVN, 计算机不计分

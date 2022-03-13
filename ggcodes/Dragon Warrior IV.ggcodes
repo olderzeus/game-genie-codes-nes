@@ -1,109 +1,109 @@
-ATVATGSL, Take no damage from monsters and lose no MP--all party members
-POSOAPZU, Start with 25 gold
-GVSOAPZL, Start with 100 gold
-NNSOAPZU, Start with 255 gold
-AIXOZAYS, Start with lots 'o gold (same as code 23)
-YEEXYXLO, Start with 15 hit points
-GVEXYXLP, Start with 100 hit points
-NNEXYXLO, Start with 255 hit points
-LNKPLONY, Start with final key
-TEKPLONN, Start with metal babble sword
-LOKPLONY, Start with multi-edge sword
-PEKPLONN, Start with thorn whip
-AKKPLONY, Start with shield of strength
-LKKPLONY, Start with dragon shield
-LNKPLONY+GEKPGONY, Start with final key and chain sickle
-TEKPLONN+LEKPGONN, Start with metal babble sword and boomerang
-LOKPLONY+PSKPGONN, Start with multi-edge sword and wizard's ring
-PEKPLONN+ZOKPGONY, Start with thorn whip and demonhammer
-AKKPLONY+ASKPGONY, Start with shield of strength and meteorite armband
-LKKPLONY+IEKPGONN, Start with dragon shield and iron fan
-ZUSOPPGT, Start with 50 gold
-NNSOPPGV, Start with 255 gold
-AIXOZAYS, Start with lots of gold (same as code 5)
-GVOZAZAP, Alena starts with 100 hit points
-NNOZAZAO, Alena starts with 255 hit points
-LNKOZONY, Start with final key
-ZOKOZONN, Start with fire claw
-LOKOZONY, Start with multi-edge sword
-PEKOZONN, Start with thorn whip
-LNKOZONY+ZOKOLONN, Start with final key and fire claw
-LEKOLONN, Start with boomerang
-LOKOZONY+PSKOLONN, Start with multi-edge sword and wizard's ring
-PEKOZONN+ZOKOLONY, Start with thorn whip and demon hammer
-AKKOZONY+ASKOLONY, Start with shield of strength and meteorite arm band
-LKKOZONY+IEKOLONN, Start with dragon shield and iron fan
-LNUPLONY, Start with final key
-TOUPLONN, Start with magma staff
-LOUPLONY, Start with multi-edge sword
-PEUPLONN, Start with thorn whip
-AKUPLONY, Start with shield of strength
-LKUPLONY, Start with dragon shield
-LNUPLONY+TOUPGONN, Start with final key and magma staff
-LEUPGONN, Start with boomerang
-LOUPLONY+PSUPGONN, Start with multi-edge sword and wizard's ring
-PEUPLONN+ZOUPGONY, Start with thorn whip and demon hammer
-AKUPLONY+ASUPGONY, Start with shield of strength and meteorite arm band
-LKUPLONY+IEUPGONN, Start with dragon shield and iron fan
-LNOOLONY, Start with final key
-TEOOLONN, Start with metal babble sword
-LOOOLONY, Start with multi-edge sword
-PEOOLONN, Start with thorn whip
-AKOOLONY, Start with shield of strength
-LKOOLONY, Start with dragon shield
-LNOOLONY+GEOOGONY, Start with final key and chain sickle
-TEOOLONN+LEOOGONN, Start with metal babble sword and boomerang
-LOOOLONY+PSOOGONN, Start with multi-edge sword and wizard's ring
-PEOOLONN+ZOOOGONY, Start with thorn whip and demon hammer
-AKOOLONY+ASOOGONY, Start with shield of strength and meteorite arm band
-LKOOLONY+IEOOGONN, Start with dragon shield and iron fan
-AOEXTZGP, Start with 16 hit points
-GVEXTZGP, Start with 100 hit points
-NNEXTZGO, Start with 255 hit points
-GVSOZPAA, Start with 100 gold
-NNSOZPAE, Start with 255 gold
-UNUOLONY, Start with final key
-LEUOLONN, Start with metal babble sword (same as code 68)
-TOUOLONY, Start with multi-edge sword
-LEUOLONN, Start with thorn whip (same as code 66)
-PKUOLONY, Start with shield of strength
-AKUOLONY, Start with dragon shield
-LNUOLONY+GEUOGONY, Start with final key and chain sickle
-TEUOLONN+LEUOGONN, Start with metal babble sword and boomerang
-LOUOLONY+PSUOGONN, Start with multi-edge sword and wizard's ring
-PEUOLONN+ZOUOGONY, Start with thorn whip and demon hammer
-AKUOLONY+ASUOGONY, Start with shield of strength and meteorite arm band
-LKUOLONY+IEUOGONN, Start with dragon shield and iron fan
-GVEXLZZP, Nara starts with 100 hit points
-GVEXGZAP, Mara starts with 100 hit points
-NNEXLZZO, Nara starts with 255 hit points
-NNEXGZAO, Mara starts with 255 hit points
-LNXPLONY, Start with final key
-TEXPLONN, Start with metal babble sword
-LOXPLONY, Start with multi-edge sword
-PEXPLONN, Start with thorn whip
-AKXPLONY, Start with shield of strength
-LKXPLONY, Start with dragon shield
-LNXPLONY+GEXPGONY, Start with final key and chain sickle
-TEXPLONN+LEXPGONN, Start with metal babble sword and boomerang
-LOXPLONY+PSXPGONN, Start with multi-edge sword and wizard's ring
-PEXPLONN+ZOXPGONY, Start with thorn whip and demon hammer
-AKXPLONY+ASXPGONY, Start with shield of strength and meteorite arm band
-LKXPLONY+IEXPGONN, Start with dragon shield and iron fan
-LNXOPONY, Start with final key
-TOXOPONN, Start with magma staff
-LOXOPONY, Start with multi-edge sword
-PEXOPONN, Start with thorn whip
-AKXOPONY, Start with shield of strength
-LKXOPONY, Start with dragon shield
-LNXOPONY+GEXOZONY, Start with final key and chain sickle
-TEXOPONN+LEXOZONN, Start with metal babble sword and boomerang
-LOXOPONY+PSXOZONN, Start with multi-edge sword and wizard's ring
-PEXOPONN+ZOXOZONY, Start with thorn whip and demon hammer
-AKXOPONY+ASXOZONY, Start with shield of strength and meteorite arm band
-LKXOPONY+IEXOZONN, Start with dragon shield and iron fan
-LNOPIONY, Start with final key
-PXOPIONY, Start with zenithian sword
-GKOPIONY, Start with zenithian shield
-YUOPIONY, Start with zenithian armor
-LKOPIONN, Start with zenithian helmet
+ATVATGSL, 不受怪物伤害
+POSOAPZU, 开局 25 金
+GVSOAPZL, 开局 100 金
+NNSOAPZU, 开局 255 金
+AIXOZAYS, 开局很多金
+YEEXYXLO, 开局 15 生命值
+GVEXYXLP, 开局 100 生命值
+NNEXYXLO, 开局 255 生命值
+LNKPLONY, 开局钥匙
+TEKPLONN, 开局金属剑
+LOKPLONY, 开局多刃剑
+PEKPLONN, 开局刺鞭
+AKKPLONY, 开局力量盾
+LKKPLONY, 开局龙盾
+LNKPLONY+GEKPGONY, 开局钥匙和链镰
+TEKPLONN+LEKPGONN, 开局金属剑和回旋镖
+LOKPLONY+PSKPGONN, 开局多刃剑和巫师戒
+PEKPLONN+ZOKPGONY, 开局刺鞭和魔锤
+AKKPLONY+ASKPGONY, 开局力量盾和陨石臂章
+LKKPLONY+IEKPGONN, 开局龙盾和铁扇
+ZUSOPPGT, 开局 50 金
+NNSOPPGV, 开局 255 金
+AIXOZAYS, 开局很多金
+GVOZAZAP, 阿莱娜开局 100 生命值
+NNOZAZAO, 阿莱娜开局 255 生命值
+LNKOZONY, 开局钥匙
+ZOKOZONN, 开局火爪
+LOKOZONY, 开局多刃剑
+PEKOZONN, 开局刺鞭
+LNKOZONY+ZOKOLONN, 开局钥匙和火爪
+LEKOLONN, 开局回旋镖
+LOKOZONY+PSKOLONN, 开局多刃剑和巫师之戒
+PEKOZONN+ZOKOLONY, 开局刺鞭和魔锤
+AKKOZONY+ASKOLONY, 开局力量盾和陨石臂章
+LKKOZONY+IEKOLONN, 开局龙盾和铁扇
+LNUPLONY, 开局钥匙
+TOUPLONN, 开局岩浆棒
+LOUPLONY, 开局多刃剑
+PEUPLONN, 开局刺鞭
+AKUPLONY, 开局力量盾
+LKUPLONY, 开局龙盾
+LNUPLONY+TOUPGONN, 开局钥匙和岩浆棒
+LEUPGONN, 开局回旋镖
+LOUPLONY+PSUPGONN, 开局多刃剑和巫师之戒
+PEUPLONN+ZOUPGONY, 开局刺鞭和魔锤
+AKUPLONY+ASUPGONY, 开局力量盾和陨石臂章
+LKUPLONY+IEUPGONN, 开局龙盾和铁扇
+LNOOLONY, 开局钥匙
+TEOOLONN, 开局金属剑
+LOOOLONY, 开局多刃剑
+PEOOLONN, 开局刺鞭
+AKOOLONY, 开局力量盾
+LKOOLONY, 开局龙盾
+LNOOLONY+GEOOGONY, 开局钥匙和链镰
+TEOOLONN+LEOOGONN, 开局金属剑和回旋镖
+LOOOLONY+PSOOGONN, 开局多刃剑和巫师之戒
+PEOOLONN+ZOOOGONY, 开局刺鞭和魔锤
+AKOOLONY+ASOOGONY, 开局力量盾和陨石臂章
+LKOOLONY+IEOOGONN, 开局龙盾和铁扇
+AOEXTZGP, 开局 16 生命值
+GVEXTZGP, 开局 100 生命值
+NNEXTZGO, 开局 255 生命值
+GVSOZPAA, 开局 100 金
+NNSOZPAE, 开局 255 金
+UNUOLONY, 开局钥匙
+LEUOLONN, 开局金属剑
+TOUOLONY, 开局多刃剑
+LEUOLONN, 开局刺鞭
+PKUOLONY, 开局力量盾
+AKUOLONY, 开局龙盾
+LNUOLONY+GEUOGONY, 开局钥匙和链镰
+TEUOLONN+LEUOGONN, 开局金属剑和回旋镖
+LOUOLONY+PSUOGONN, 开局多刃剑和巫师之戒
+PEUOLONN+ZOUOGONY, 开局刺鞭和魔锤
+AKUOLONY+ASUOGONY, 开局力量盾和陨石臂章
+LKUOLONY+IEUOGONN, 开局龙盾和铁扇
+GVEXLZZP, 娜娜开局 100 生命值
+GVEXGZAP, 玛娜开局 100 生命值
+NNEXLZZO, 娜娜开局 255 生命值
+NNEXGZAO, 玛娜开局 255 生命值
+LNXPLONY, 开局钥匙
+TEXPLONN, 开局金属剑
+LOXPLONY, 开局多刃剑
+PEXPLONN, 开局刺鞭
+AKXPLONY, 开局力量盾
+LKXPLONY, 开局龙盾
+LNXPLONY+GEXPGONY, 开局钥匙和链镰
+TEXPLONN+LEXPGONN, 开局金属剑和回旋镖
+LOXPLONY+PSXPGONN, 开局多刃剑和巫师之戒
+PEXPLONN+ZOXPGONY, 开局刺鞭和魔锤
+AKXPLONY+ASXPGONY, 开局力量盾和陨石臂章
+LKXPLONY+IEXPGONN, 开局龙盾和铁扇
+LNXOPONY, 开局钥匙
+TOXOPONN, 开局岩浆棒
+LOXOPONY, 开局多刃剑
+PEXOPONN, 开局刺鞭
+AKXOPONY, 开局力量盾
+LKXOPONY, 开局龙盾
+LNXOPONY+GEXOZONY, 开局钥匙和链镰
+TEXOPONN+LEXOZONN, 开局金属剑和回旋镖
+LOXOPONY+PSXOZONN, 开局多刃剑和巫师之戒
+PEXOPONN+ZOXOZONY, 开局刺鞭和魔锤
+AKXOPONY+ASXOZONY, 开局力量盾和陨石臂章
+LKXOPONY+IEXOZONN, 开局龙盾和铁扇
+LNOPIONY, 开局钥匙
+PXOPIONY, 开局天剑
+GKOPIONY, 开局天盾
+YUOPIONY, 开局天甲
+LKOPIONN, 开局天盔

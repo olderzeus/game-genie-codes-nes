@@ -1,7 +1,7 @@
-PAXXPYLA, Start with 2 lives
-TAXXPYLA, Start with 7 lives
-PAXXPYLE, Start with 10 lives
-SXNTPLVG, Infinite lives--except at boss stages
+PAXXPYLA, 开局 2 条命
+TAXXPYLA, 开局 7 条命
+PAXXPYLE, 开局 10 条命
+SXNTPLVG, 无限续命随意浪--except at boss stages
 POSAGGZU, Coins worth 25
 GVSAGGZL, Coins worth 100
 NNSAGGZU, Coins worth 255
@@ -12,8 +12,8 @@ AGKZGYEA, Less energy (same as code 16)
 ELKZGYEA, More energy
 AGELLZEA, Less energy after death--except at boss stages
 ELELLZEA, More energy after death--except at boss stages
-PAKZGYEA, Start with very little life force
-AGKZGYEA, Start with about half life force (same as code 11)
-SXVTGLVG, Infinite lives
+PAKZGYEA, 开局 very little life force
+AGKZGYEA, 开局 about half life force (same as code 11)
+SXVTGLVG, 无限续命随意浪
 SZNYZNSE, Shopkeeper sometimes forgets to charge
 SXXNITVG, Infinite keys

@@ -1,9 +1,7 @@
-AEXVNTZA, Start with 1 life
-IEXVNTZA, Start with 6 lives
-AEXVNTZE, Start with 9 lives
-SZONIEVK, Infinite lives--player 1
-GZVIKIST, Infinite energy--player 1
-GZNSNIST, Infinite energy--player 2
-AENIOIIA, Get maximum energy from food--player 1
-AAEINTIA, Get maximum energy from food--player 2
-AVVIXSGZ, No energy from food!
+AEXVNTZA, 极限挑战 1 条命
+IEXVNTZA, 开局 6 条命
+AEXVNTZE, 开局 9 条命
+SZONIEVK, 无限续命随意浪
+GZVIKIST, 无限能量随意耗
+AENIOIIA, 从食物中获取最大能量
+AVVIXSGZ, 食物没有能量！

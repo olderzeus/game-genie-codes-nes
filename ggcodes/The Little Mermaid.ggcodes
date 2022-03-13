@@ -1,9 +1,9 @@
-AASGATZA, Start with 1 life
-IASGATZA, Start with 6 lives
-AASGATZE, Start with 9 lives
-PASGGTLA+PAXGAYLA, Start with 1 heart
-IASGGTLA+IAXGAYLA, Start with 5 hearts
-SZSSPLVG, Infinite lives
+AASGATZA, 极限挑战 1 条命
+IASGATZA, 开局 6 条命
+AASGATZE, 开局 9 条命
+PASGGTLA+PAXGAYLA, 开局 1 heart
+IASGGTLA+IAXGAYLA, 开局 5 hearts
+SZSSPLVG, 无限续命随意浪
 GZSILLSA, Keep red pearls after dying
 GZSIILSA, Keep green pearls after dying
 PAKKGTAA, Start on 2nd stage
@@ -11,6 +11,6 @@ ZAKKGTAA, Start on 3rd stage
 LAKKGTAA, Start on 4th stage
 GAKKGTAA, Start on 5th stage
 IAKKGTAA, Start on Ursula stage
-LAKKGTAA+ILKKTVOV, Start with all red pearls
-LAKKGTAA+TLKKTVOV, Start with all green pearls
+LAKKGTAA+ILKKTVOV, 开局 all red pearls
+LAKKGTAA+TLKKTVOV, 开局 all green pearls
 LASIZLAA, Get all pearls after dying
