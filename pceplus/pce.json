@@ -1,0 +1,2014 @@
+{
+    "Super Mario Bros (J) [p1]": {
+        "enable_save": "0",
+        "name": "超级马里奥兄弟（日）",
+        "publish": "1"
+    },
+    "5-in-1 Fami Collection - NES Collection Nr 1 (J)": {
+        "enable_save": "0",
+        "name": "任天堂经典 Ⅰ 五合一（日）",
+        "publish": "1"
+    },
+    "6-in-1 Fami Collection - NES Collection Nr 2 (J) [h1]": {
+        "enable_save": "0",
+        "name": "任天堂经典 Ⅱ 六合一（日）",
+        "publish": "1"
+    },
+    "15-in-1 Mega Collection - Backtracking Ten Years (J) [h1]": {
+        "enable_save": "0",
+        "name": "经典 15 合一 （日）",
+        "publish": "1"
+    },
+    "1943 Kai (J)": {
+        "enable_save": "0",
+        "name": "１９４３ 改（日）",
+        "publish": "1"
+    },
+    "21-Emon - Mezase Hotel Ou!! (J)": {
+        "enable_save": "0",
+        "name": "２１卫门 - 旅馆王 （日）",
+        "publish": "1"
+    },
+    "AV Poker - World Gambler (J)": {
+        "enable_save": "0",
+        "name": "ＡＶ扑克牌 （日）",
+        "publish": "1"
+    },
+    "Adventure Island (J)": {
+        "enable_save": "0",
+        "name": "冒险岛 （日）",
+        "publish": "1"
+    },
+    "Aero Blasters (J)": {
+        "enable_save": "0",
+        "name": "疾风战机 （日）",
+        "publish": "1"
+    },
+    "Aero Blasters (U) [h1]": {
+        "enable_save": "0",
+        "name": "疾风战机 （美）",
+        "publish": "1"
+    },
+    "After Burner II (J)": {
+        "enable_save": "0",
+        "name": "冲破火网Ⅱ （日）",
+        "publish": "1"
+    },
+    "Air Zonk (U) [h1]": {
+        "enable_save": "0",
+        "name": "空中射击 （美）",
+        "publish": "1"
+    },
+    "Alien Crush (J)": {
+        "enable_save": "0",
+        "name": "异形弹珠台 （日）",
+        "publish": "1"
+    },
+    "Alien Crush (U) [h1]": {
+        "enable_save": "0",
+        "name": "异形弹珠台 （美）",
+        "publish": "1"
+    },
+    "Panza Kick Boxing (U) [h1]": {
+        "enable_save": "0",
+        "name": "泰国拳击 （美）",
+        "publish": "1"
+    },
+    "Ankuku Densetsu (J)": {
+        "enable_save": "0",
+        "name": "暗黑传说 （日）",
+        "publish": "1"
+    },
+    "Aoi Blink (J)": {
+        "enable_save": "0",
+        "name": "青色神驴 （日）",
+        "publish": "1"
+    },
+    "Aoi Blink (J) [T+Eng]": {
+        "enable_save": "0",
+        "name": "青色神驴 （英）",
+        "publish": "1"
+    },
+    "Appare Gateball (J)": {
+        "enable_save": "0",
+        "name": "槌球大赛 （日）",
+        "publish": "1"
+    },
+    "Armed Formation F (J)": {
+        "enable_save": "0",
+        "name": "武装编队Ｆ （日）",
+        "publish": "1"
+    },
+    "Artist Tool (J)": {
+        "enable_save": "0",
+        "name": "艺术工具 （日）",
+        "publish": "1"
+    },
+    "Atomic Robo-Kid Special (J)": {
+        "enable_save": "0",
+        "name": "原子机械童特别版 （日）",
+        "publish": "1"
+    },
+    "Ballistix (J)": {
+        "enable_save": "0",
+        "name": "妖魔传 （日）",
+        "publish": "1"
+    },
+    "Ballistix (U) [h1]": {
+        "enable_save": "0",
+        "name": "妖魔传 （美）",
+        "publish": "1"
+    },
+    "Bari Bari Densetsu (J)": {
+        "enable_save": "0",
+        "name": "爆走传说 （日）",
+        "publish": "1"
+    },
+    "Barunba (J)": {
+        "enable_save": "0",
+        "name": "宝伦大作战 （日）",
+        "publish": "1"
+    },
+    "Batman (J) [h1]": {
+        "enable_save": "0",
+        "name": "蝙蝠侠 （日）",
+        "publish": "1"
+    },
+    "Battle Lode Runner (J)": {
+        "enable_save": "0",
+        "name": "战斗淘金者 （日）",
+        "publish": "1"
+    },
+    "Battle Royale (U)": {
+        "enable_save": "0",
+        "name": "金腰带争霸战 （美）",
+        "publish": "1"
+    },
+    "Be Ball (J) [h1]": {
+        "enable_save": "0",
+        "name": "太极球 （日）",
+        "publish": "1"
+    },
+    "Benkei Gaiden (J)": {
+        "enable_save": "0",
+        "name": "牟庆外传 （日）",
+        "publish": "1"
+    },
+    "Bikkuriman World (J)": {
+        "enable_save": "0",
+        "name": "比卡鲁超人世界 （日）",
+        "publish": "1"
+    },
+    "Bikkuriman World (J) [T-Eng_Partial_DemiForce]": {
+        "enable_save": "0",
+        "name": "比卡鲁超人世界 （英）",
+        "publish": "1"
+    },
+    "Blazing Lazers (U) [h1]": {
+        "enable_save": "0",
+        "name": "燃烧空战 （美）",
+        "publish": "1"
+    },
+    "Blodia (J)": {
+        "enable_save": "0",
+        "name": "迷魂阵 （日）",
+        "publish": "1"
+    },
+    "Bloody Wolf (U) [h1]": {
+        "enable_save": "0",
+        "name": "血狼 （美）",
+        "publish": "1"
+    },
+    "Body Conquest II (J)": {
+        "enable_save": "0",
+        "name": "美女外传Ⅱ （日）",
+        "publish": "1"
+    },
+    "Bomberman '93 (J)": {
+        "enable_save": "0",
+        "name": "炸弹人 '９３ （日）",
+        "publish": "1"
+    },
+    "Bomberman '93 (U) [h1]": {
+        "enable_save": "0",
+        "name": "炸弹人 '９３ （美）",
+        "publish": "1"
+    },
+    "Bomberman '93 Special (J) [!]": {
+        "enable_save": "0",
+        "name": "炸弹人 '９３ 特别版 （日）",
+        "publish": "1"
+    },
+    "Bomberman '94 (J)": {
+        "enable_save": "0",
+        "name": "炸弹人 '９４ （日）",
+        "publish": "1"
+    },
+    "Bomberman (J)": {
+        "enable_save": "0",
+        "name": "炸弹人 （日）",
+        "publish": "1"
+    },
+    "Bomberman (U)": {
+        "enable_save": "0",
+        "name": "炸弹人 （美）",
+        "publish": "1"
+    },
+    "Bomberman Users Battle (J) [!]": {
+        "enable_save": "0",
+        "name": "炸弹人 - 玩家对决 （日）",
+        "publish": "1"
+    },
+    "Bonk III - Bonk's Big Adventure (U) [h1]": {
+        "enable_save": "0",
+        "name": "ＰＣ原人大冒险 （美）",
+        "publish": "1"
+    },
+    "Bonk's Adventure (U) [h1]": {
+        "enable_save": "0",
+        "name": "ＰＣ原人冒险记 （美）",
+        "publish": "1"
+    },
+    "Bonk's Revenge (U) [h1]": {
+        "enable_save": "0",
+        "name": "ＰＣ原人复仇记 （美）",
+        "publish": "1"
+    },
+    "Bouken Danshaku Don - The Lost Sunheart (J)": {
+        "enable_save": "0",
+        "name": "冒险男爵 （日）",
+        "publish": "1"
+    },
+    "Boxy Boy (U) [h1]": {
+        "enable_save": "0",
+        "name": "仓库番 （美）",
+        "publish": "1"
+    },
+    "Bravoman (U)": {
+        "enable_save": "0",
+        "name": "超绝伦人 （美）",
+        "publish": "1"
+    },
+    "Break In (J)": {
+        "enable_save": "0",
+        "name": "花式撞球 （日）",
+        "publish": "1"
+    },
+    "Bubblegum Crash! - Knight Sabers 2034 (J)": {
+        "enable_save": "0",
+        "name": "吹波糖危机 （日）",
+        "publish": "1"
+    },
+    "Bullfight - Ring no Hasha (J)": {
+        "enable_save": "0",
+        "name": "拳王争霸 （日）",
+        "publish": "1"
+    },
+    "Burning Angels (J) [h1]": {
+        "enable_save": "0",
+        "name": "燃烧天使 （日）",
+        "publish": "1"
+    },
+    "Busou Keiji Cyber Cross (J)": {
+        "enable_save": "0",
+        "name": "武装刑事 （日）",
+        "publish": "1"
+    },
+    "Cadash (J)": {
+        "enable_save": "0",
+        "name": "卡达叙传说 （日）",
+        "publish": "1"
+    },
+    "Cadash (U)": {
+        "enable_save": "0",
+        "name": "卡达叙传说 （美）",
+        "publish": "1"
+    },
+    "Champion Wrestler (J)": {
+        "enable_save": "0",
+        "name": "疯狂摔角 （日）",
+        "publish": "1"
+    },
+    "Champions Forever Boxing (U)": {
+        "enable_save": "0",
+        "name": "霸王拳击 （美）",
+        "publish": "1"
+    },
+    "Chew-Man-Fu (U)": {
+        "enable_save": "0",
+        "name": "太极球 （美）",
+        "publish": "1"
+    },
+    "Chibi Maruko-Chan Quiz de Pihyara (J)": {
+        "enable_save": "0",
+        "name": "小丸子机智问答 （日）",
+        "publish": "1"
+    },
+    "Chikuden Yatoubei - Kubikiri Yakata Yori (J)": {
+        "enable_save": "0",
+        "name": "逐电屋藤兵卫 （日）",
+        "publish": "1"
+    },
+    "China Warrior (U) [h1]": {
+        "enable_save": "0",
+        "name": "中国功夫 - 李小龙 （美）",
+        "publish": "1"
+    },
+    "Chouzetsu Rinjin Berabou Man (J)": {
+        "enable_save": "0",
+        "name": "超绝伦人 （日）",
+        "publish": "1"
+    },
+    "Circus Lido (J)": {
+        "enable_save": "0",
+        "name": "泡泡虫 （日）",
+        "publish": "1"
+    },
+    "City Hunter (J)": {
+        "enable_save": "0",
+        "name": "城市猎人 （日）",
+        "publish": "1"
+    },
+    "Columns (J)": {
+        "enable_save": "0",
+        "name": "宝石方块 （日）",
+        "publish": "1"
+    },
+    "Coryoon - Child of Dragon (J)": {
+        "enable_save": "0",
+        "name": "顽皮龙 （日）",
+        "publish": "1"
+    },
+    "Cratermaze (U) [h1]": {
+        "enable_save": "0",
+        "name": "机器猫小叮当 - 迷宫大作战 （美）",
+        "publish": "1"
+    },
+    "Cross Wiber - Cyber Combat Police (J)": {
+        "enable_save": "0",
+        "name": "武装战斗刑事 （日）",
+        "publish": "1"
+    },
+    "Cyber Core (J)": {
+        "enable_save": "0",
+        "name": "战斗生命体 （日）",
+        "publish": "1"
+    },
+    "Cyber Core (U) [h1]": {
+        "enable_save": "0",
+        "name": "战斗生命体 （美）",
+        "publish": "1"
+    },
+    "Cyber Dodgeball (J)": {
+        "enable_save": "0",
+        "name": "战斗躲避球 （日）",
+        "publish": "1"
+    },
+    "Cyber Knight (J)": {
+        "enable_save": "0",
+        "name": "武装骑士 （日）",
+        "publish": "1"
+    },
+    "Daichikun Crisis (J)": {
+        "enable_save": "0",
+        "name": "幻之大地 （日）",
+        "publish": "1"
+    },
+    "Daisenpuu (J)": {
+        "enable_save": "0",
+        "name": "大旋风 （日）",
+        "publish": "1"
+    },
+    "Darius Alpha (J)": {
+        "enable_save": "0",
+        "name": "太空战斗机α （日）",
+        "publish": "1"
+    },
+    "Darius Plus (J)": {
+        "enable_save": "0",
+        "name": "(SGX)太空战斗机加强版 （日）",
+        "publish": "1"
+    },
+    "Darkwing Duck (U) [h1]": {
+        "enable_save": "0",
+        "name": "怪鸭历险记 （美）",
+        "publish": "1"
+    },
+    "Davis Cup Tennis (U) [h1]": {
+        "enable_save": "0",
+        "name": "戴维斯杯网球 （美）",
+        "publish": "1"
+    },
+    "Dead Moon (U) [h1]": {
+        "enable_save": "0",
+        "name": "死亡之月 （美）",
+        "publish": "1"
+    },
+    "Dead Moon - Tsuki Sekai no Akumu (J)": {
+        "enable_save": "0",
+        "name": "死亡之月 （日）",
+        "publish": "1"
+    },
+    "Deep Blue (U) [h1]": {
+        "enable_save": "0",
+        "name": "海底神话 （美）",
+        "publish": "1"
+    },
+    "Deep Blue - Kaitei Shinwa (J)": {
+        "enable_save": "0",
+        "name": "海底神话 （日）",
+        "publish": "1"
+    },
+    "Detana!! TwinBee (J)": {
+        "enable_save": "0",
+        "name": "出发！！兵蜂 （日）",
+        "publish": "1"
+    },
+    "Devil Crash (J)": {
+        "enable_save": "0",
+        "name": "魔幻弹珠台 （日）",
+        "publish": "1"
+    },
+    "Devil's Crush (U) [h1]": {
+        "enable_save": "0",
+        "name": "魔幻弹珠台 （美）",
+        "publish": "1"
+    },
+    "Die Hard (J)": {
+        "enable_save": "0",
+        "name": "终极警探 （日）",
+        "publish": "1"
+    },
+    "Digital Champ (J)": {
+        "enable_save": "0",
+        "name": "真实拳击 （日）",
+        "publish": "1"
+    },
+    "Don Doko Don (J)": {
+        "enable_save": "0",
+        "name": "木匠兄弟 （日）",
+        "publish": "1"
+    },
+    "Doraemon - Meikyuu Daisakusen (J)": {
+        "enable_save": "0",
+        "name": "机器猫小叮当 - 迷宫大作战 （日）",
+        "publish": "1"
+    },
+    "Doraemon - Nobita no Dorabian Night (J)": {
+        "enable_save": "0",
+        "name": "机器猫小叮当 - 阿拉伯之夜 （日）",
+        "publish": "1"
+    },
+    "Double Dungeons (J)": {
+        "enable_save": "0",
+        "name": "双龙战记 （日）",
+        "publish": "1"
+    },
+    "Double Dungeons (U) [h1]": {
+        "enable_save": "0",
+        "name": "双龙战记 （美）",
+        "publish": "1"
+    },
+    "Download (J)": {
+        "enable_save": "0",
+        "name": "电脑骑士 （日）",
+        "publish": "1"
+    },
+    "Dragon Egg! (J)": {
+        "enable_save": "0",
+        "name": "恐龙女战士 （日）",
+        "publish": "1"
+    },
+    "Dragon Saber - After Story of Dragon Spirit (J)": {
+        "enable_save": "0",
+        "name": "龙骑兵 （日）",
+        "publish": "1"
+    },
+    "Dragon Spirit (J)": {
+        "enable_save": "0",
+        "name": "龙魂 （日）",
+        "publish": "1"
+    },
+    "Dragon Spirit (U) [h1]": {
+        "enable_save": "0",
+        "name": "龙魂 （美）",
+        "publish": "1"
+    },
+    "Dragon's Curse (U) [h1]": {
+        "enable_save": "0",
+        "name": "龙之咒 （美）",
+        "publish": "1"
+    },
+    "Drop Off (U) [h1]": {
+        "enable_save": "0",
+        "name": "水果方块 （美）",
+        "publish": "1"
+    },
+    "Drop Rock Hora Hora (J)": {
+        "enable_save": "0",
+        "name": "水果方块 （日）",
+        "publish": "1"
+    },
+    "Dungeon Explorer (J)": {
+        "enable_save": "0",
+        "name": "地下城探险 （日）",
+        "publish": "1"
+    },
+    "Dungeon Explorer (U) [h1]": {
+        "enable_save": "0",
+        "name": "地下城探险 （美）",
+        "publish": "1"
+    },
+    "Energy (J)": {
+        "enable_save": "0",
+        "name": "艾吉娜 （日）",
+        "publish": "1"
+    },
+    "Toshi Tensou Keikaku - Eternal City (J)": {
+        "enable_save": "0",
+        "name": "永恒的城市 （日）",
+        "publish": "1"
+    },
+    "F1 Circus (J)": {
+        "enable_save": "0",
+        "name": "一级方程式赛车 （日）",
+        "publish": "1"
+    },
+    "F1 Circus '91 - World Championship (J)": {
+        "enable_save": "0",
+        "name": "一级方程式赛车 '９１ （日）",
+        "publish": "1"
+    },
+    "F1 Circus '92 - The Speed of Sound (J)": {
+        "enable_save": "0",
+        "name": "一级方程式赛车 '９２ （日）",
+        "publish": "1"
+    },
+    "F-1 Dream (J)": {
+        "enable_save": "0",
+        "name": "一级方程式之梦 （日）",
+        "publish": "1"
+    },
+    "F-1 Pilot - You're King of Kings (J)": {
+        "enable_save": "0",
+        "name": "一级方程式驾驶员 - 王中王 （日）",
+        "publish": "1"
+    },
+    "F1 Triple Battle (J)": {
+        "enable_save": "0",
+        "name": "一级方程式三重战 （日）",
+        "publish": "1"
+    },
+    "Falcon (U) [h1]": {
+        "enable_save": "0",
+        "name": "鹰式战机 （美）",
+        "publish": "1"
+    },
+    "Fantasy Zone (J)": {
+        "enable_save": "0",
+        "name": "幻想空间 （日）",
+        "publish": "1"
+    },
+    "Fantasy Zone (U) [h1]": {
+        "enable_save": "0",
+        "name": "幻想空间 （美）",
+        "publish": "1"
+    },
+    "Fighting Run (J)": {
+        "enable_save": "0",
+        "name": "铁甲威龙 （日）",
+        "publish": "1"
+    },
+    "Final Blaster (J)": {
+        "enable_save": "0",
+        "name": "凤凰战机 （日）",
+        "publish": "1"
+    },
+    "Final Lap Twin (J)": {
+        "enable_save": "0",
+        "name": "终极赛车 （日）",
+        "publish": "1"
+    },
+    "Final Lap Twin (U) [h1]": {
+        "enable_save": "0",
+        "name": "终极赛车 （美）",
+        "publish": "1"
+    },
+    "Final Match Tennis (J)": {
+        "enable_save": "0",
+        "name": "终极网球 （日）",
+        "publish": "1"
+    },
+    "Final Soldier (J)": {
+        "enable_save": "0",
+        "name": "最终战机 （日）",
+        "publish": "1"
+    },
+    "Final Soldier Special Version (J)": {
+        "enable_save": "0",
+        "name": "最终战机 - 限时版 （日）",
+        "publish": "1"
+    },
+    "Fire Pro Wrestling - Combination Tag (J)": {
+        "enable_save": "0",
+        "name": "热血摔角 Ⅰ - 组合标签 （日）",
+        "publish": "1"
+    },
+    "Fire Pro Wrestling - 2nd Bout (J)": {
+        "enable_save": "0",
+        "name": "热血摔角 Ⅱ - 第二回合 （日）",
+        "publish": "1"
+    },
+    "Fire Pro Wrestling 3 - Legend Bout (J)": {
+        "enable_save": "0",
+        "name": "热血摔角 Ⅲ - 传奇回合 （日）",
+        "publish": "1"
+    },
+    "Formation Soccer - Human Cup '90 (J)": {
+        "enable_save": "0",
+        "name": "休曼杯足球 '９０ （日）",
+        "publish": "1"
+    },
+    "Formation Soccer on J. League (J)": {
+        "enable_save": "0",
+        "name": "足球 - Ｊ联盟 （日）",
+        "publish": "1"
+    },
+    "Fushigi no Yume no Alice (J)": {
+        "enable_save": "0",
+        "name": "爱丽丝梦游仙境 Ⅰ （日）",
+        "publish": "1"
+    },
+    "Gai Flame (J)": {
+        "enable_save": "0",
+        "name": "炎之大地 （日）",
+        "publish": "1"
+    },
+    "Gaia no Monshou (J)": {
+        "enable_save": "0",
+        "name": "大地纹章 （日）",
+        "publish": "1"
+    },
+    "Galaga '88 (J)": {
+        "enable_save": "0",
+        "name": "大蜜蜂 '８８ （日）",
+        "publish": "1"
+    },
+    "Galaga '90 (U) [h1]": {
+        "enable_save": "0",
+        "name": "大蜜蜂 '９０ （美）",
+        "publish": "1"
+    },
+    "Ganbare Golf Boys (J)": {
+        "enable_save": "0",
+        "name": "高尔夫少年 （日）",
+        "publish": "1"
+    },
+    "Gekisha Boy (J)": {
+        "enable_save": "0",
+        "name": "激写男孩 （日）",
+        "publish": "1"
+    },
+    "Gekisha Boy (J) [T+Eng]": {
+        "enable_save": "0",
+        "name": "激写男孩 （英）",
+        "publish": "1"
+    },
+    "Genji Tsuushin Agedama (J)": {
+        "enable_save": "0",
+        "name": "通信源氏 （日）",
+        "publish": "1"
+    },
+    "Genpei Toumaden (J)": {
+        "enable_save": "0",
+        "name": "源平讨魔传 Ⅰ （日）",
+        "publish": "1"
+    },
+    "Genpei Toumaden - Kan no Ni (J)": {
+        "enable_save": "0",
+        "name": "源平讨魔传 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Ghost Manor (U)": {
+        "enable_save": "0",
+        "name": "幽魂领地 （美）",
+        "publish": "1"
+    },
+    "Gokuraku! Chuuka Taisen (J)": {
+        "enable_save": "0",
+        "name": "极乐中华大仙 （日）",
+        "publish": "1"
+    },
+    "Gomola Speed (J)": {
+        "enable_save": "0",
+        "name": "毛毛虫 （日）",
+        "publish": "1"
+    },
+    "Gomola Speed (J) [a1]": {
+        "enable_save": "0",
+        "name": "毛毛虫 （日）",
+        "publish": "1"
+    },
+    "Gradius (J)": {
+        "enable_save": "0",
+        "name": "宇宙巡航舰 （日）",
+        "publish": "1"
+    },
+    "Gunboat (U)": {
+        "enable_save": "0",
+        "name": "激战炮艇 （美）",
+        "publish": "1"
+    },
+    "Gunhed (J)": {
+        "enable_save": "0",
+        "name": "机甲战士 （日）",
+        "publish": "1"
+    },
+    "Gunhed Taikai (J)": {
+        "enable_save": "0",
+        "name": "机甲战士特别版 （日）",
+        "publish": "1"
+    },
+    "Hana Taka Daka! (J)": {
+        "enable_save": "0",
+        "name": "射击天狗 （日）",
+        "publish": "1"
+    },
+    "Honey in the Sky (J)": {
+        "enable_save": "0",
+        "name": "空中甜心 （日）",
+        "publish": "1"
+    },
+    "Honey on the Road (J)": {
+        "enable_save": "0",
+        "name": "路上甜心 （日）",
+        "publish": "1"
+    },
+    "Hatris (J)": {
+        "enable_save": "0",
+        "name": "帽子方块 （日）",
+        "publish": "1"
+    },
+    "Heavy Unit (J)": {
+        "enable_save": "0",
+        "name": "机动劲旅 （日）",
+        "publish": "1"
+    },
+    "Hisou Kihei X Serd (J)": {
+        "enable_save": "0",
+        "name": "飞装骑兵 （日）",
+        "publish": "1"
+    },
+    "Hit the Ice - VHL - The Video Hockey League (J)": {
+        "enable_save": "0",
+        "name": "暴力冰球 （日）",
+        "publish": "1"
+    },
+    "Hit the Ice - VHL - The Video Hockey League (U) [!]": {
+        "enable_save": "0",
+        "name": "暴力冰球 （美）",
+        "publish": "1"
+    },
+    "Honoo no Toukyuuji Dodge Danpei (J)": {
+        "enable_save": "0",
+        "name": "炎之斗球儿弹平 （日）",
+        "publish": "1"
+    },
+    "Idol Hanafuda Fan Club (J)": {
+        "enable_save": "0",
+        "name": "美少女麻将 （日）",
+        "publish": "1"
+    },
+    "Image Fight (J)": {
+        "enable_save": "0",
+        "name": "幻影战机 （日）",
+        "publish": "1"
+    },
+    "Impossamole (U) [h1]": {
+        "enable_save": "0",
+        "name": "浣熊超人 （美）",
+        "publish": "1"
+    },
+    "J.J. & Jeff (U) [h1]": {
+        "enable_save": "0",
+        "name": "爆笑人 （美）",
+        "publish": "1"
+    },
+    "J. League Greatest Eleven (J)": {
+        "enable_save": "0",
+        "name": "Ｊ联盟最强十一人 （日）",
+        "publish": "1"
+    },
+    "Jack Nicklaus' Greatest 18 Holes of Major Champ. Golf (J)": {
+        "enable_save": "0",
+        "name": "杰克高尔夫 - １８洞 （日）",
+        "publish": "1"
+    },
+    "Jack Nicklaus' Turbo Golf (U) [h1]": {
+        "enable_save": "0",
+        "name": "杰克高尔夫 - 加强版 （美）",
+        "publish": "1"
+    },
+    "Jackie Chan (J)": {
+        "enable_save": "0",
+        "name": "成龙功夫 （日）",
+        "publish": "1"
+    },
+    "Jackie Chan's Action Kung Fu (U) [h1]": {
+        "enable_save": "0",
+        "name": "成龙功夫 （美）",
+        "publish": "1"
+    },
+    "Necromancer (J)[T+ENG_v01b] [h1]": {
+        "enable_save": "0",
+        "name": "邪圣剑 （英）",
+        "publish": "1"
+    },
+    "Necromancer (J)": {
+        "enable_save": "0",
+        "name": "邪圣剑 （日）",
+        "publish": "1"
+    },
+    "Jigoku Meguri (J)": {
+        "enable_save": "0",
+        "name": "地狱巡游 （日）",
+        "publish": "1"
+    },
+    "Jinmu Denshou (J)": {
+        "enable_save": "0",
+        "name": "神武传承 （日）",
+        "publish": "1"
+    },
+    "Juuouki (J)": {
+        "enable_save": "0",
+        "name": "兽王记 （日）",
+        "publish": "1"
+    },
+    "Kaizou Choujin Shubibinman (J)": {
+        "enable_save": "0",
+        "name": "改造超人 Ⅰ （日）",
+        "publish": "1"
+    },
+    "Kaizou Choujin Shubibinman 2 - Aratanaru Teki (J)": {
+        "enable_save": "0",
+        "name": "改造超人 Ⅱ - 新的敌人 （日）",
+        "publish": "1"
+    },
+    "Kato Chan & Ken Chan (J)": {
+        "enable_save": "0",
+        "name": "爆笑人 （日）",
+        "publish": "1"
+    },
+    "Kattobi! Takuhaikun (J)": {
+        "enable_save": "0",
+        "name": "快递公司 （日）",
+        "publish": "1"
+    },
+    "Keith Courage in Alpha Zones (U) [h1]": {
+        "enable_save": "0",
+        "name": "魔神英雄传 （美）",
+        "publish": "1"
+    },
+    "Kick Ball (J)": {
+        "enable_save": "0",
+        "name": "场式足球 （日）",
+        "publish": "1"
+    },
+    "Kiki Kaikai (J)": {
+        "enable_save": "0",
+        "name": "奇奇怪界 （日）",
+        "publish": "1"
+    },
+    "King of Casino (J)": {
+        "enable_save": "0",
+        "name": "赌场之王 （日）",
+        "publish": "1"
+    },
+    "King of Casino (U) [h1]": {
+        "enable_save": "0",
+        "name": "赌场之王 （美）",
+        "publish": "1"
+    },
+    "Klax (J)": {
+        "enable_save": "0",
+        "name": "立体方块 （日）",
+        "publish": "1"
+    },
+    "Klax (U) [h1]": {
+        "enable_save": "0",
+        "name": "立体方块 （美）",
+        "publish": "1"
+    },
+    "Knight Rider Special (J) [h1]": {
+        "enable_save": "0",
+        "name": "霹雳游侠特别版 （日）",
+        "publish": "1"
+    },
+    "Kore ga Pro Yakyuu '89 (J)": {
+        "enable_save": "0",
+        "name": "职业棒球 '８９ （日）",
+        "publish": "1"
+    },
+    "Kore ga Pro Yakyuu '90 (J)": {
+        "enable_save": "0",
+        "name": "职业棒球 '９０ （日）",
+        "publish": "1"
+    },
+    "Kung Fu, The (J)": {
+        "enable_save": "0",
+        "name": "功夫 （日）",
+        "publish": "1"
+    },
+    "Kyuukyoku Mahjong Idol Graphic (J)": {
+        "enable_save": "0",
+        "name": "究极麻将 Ⅰ （日）",
+        "publish": "1"
+    },
+    "Kyuukyoku Mahjong Idol Graphic II (J)": {
+        "enable_save": "0",
+        "name": "究极麻将 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Kyuukyoku Tiger (J)": {
+        "enable_save": "0",
+        "name": "究极虎 （日）",
+        "publish": "1"
+    },
+    "Lady Sword (J)": {
+        "enable_save": "0",
+        "name": "美少女之剑 （日）",
+        "publish": "1"
+    },
+    "Legend of Hero Tonma (J)": {
+        "enable_save": "0",
+        "name": "小英雄托马 （日）",
+        "publish": "1"
+    },
+    "Legend of Hero Tonma (U)": {
+        "enable_save": "0",
+        "name": "小英雄托马 （美）",
+        "publish": "1"
+    },
+    "Legendary Axe II, The (U) [h1]": {
+        "enable_save": "0",
+        "name": "战斧传说 Ⅱ （美）",
+        "publish": "1"
+    },
+    "Legendary Axe, The (U) [h1]": {
+        "enable_save": "0",
+        "name": "战斧传说 Ⅰ （美）",
+        "publish": "1"
+    },
+    "Lode Runner - Lost Labyrinth (J)": {
+        "enable_save": "0",
+        "name": "淘金者 - 失落的迷宫 （日）",
+        "publish": "1"
+    },
+    "Marchen Maze (J)": {
+        "enable_save": "0",
+        "name": "爱丽丝梦游仙境 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Marchen Maze (J) [T+ENG]": {
+        "enable_save": "0",
+        "name": "爱丽丝梦游仙境 Ⅱ （英）",
+        "publish": "1"
+    },
+    "Magical Chase (J)": {
+        "enable_save": "0",
+        "name": "小魔女 （日）",
+        "publish": "1"
+    },
+    "Magical Chase (U) [!]": {
+        "enable_save": "0",
+        "name": "小魔女 （美）",
+        "publish": "1"
+    },
+    "Mahjong Gakuen - Toumasou Shirou Toujou (J)": {
+        "enable_save": "0",
+        "name": "麻将学园 - 东间宗四郎登场 （日）",
+        "publish": "1"
+    },
+    "Mahjong Gakuen Mild - Touma Soujirou Toujou (J)": {
+        "enable_save": "0",
+        "name": "麻将学园温和版 - 东间宗四郎登场 （日）",
+        "publish": "1"
+    },
+    "Mahjong Gokuu Special (J)": {
+        "enable_save": "0",
+        "name": "麻将悟空天竺特别版 （日）",
+        "publish": "1"
+    },
+    "Mahjong Haouden - Kaiser's Quest (J)": {
+        "enable_save": "0",
+        "name": "麻将霸王传 - 凯撒的任务 （日）",
+        "publish": "1"
+    },
+    "Mahjong Shikaku Retsuden - Mahjong Wars (J)": {
+        "enable_save": "0",
+        "name": "麻将刺客列传 - 麻将战争 （日）",
+        "publish": "1"
+    },
+    "Maison Ikkoku (J)": {
+        "enable_save": "0",
+        "name": "相聚一刻 （日）",
+        "publish": "1"
+    },
+    "Majin Eiyuu Den Wataru (J)": {
+        "enable_save": "0",
+        "name": "魔神英雄传 （日）",
+        "publish": "1"
+    },
+    "Makai Hakkenden Shada (J)": {
+        "enable_save": "0",
+        "name": "魔界八犬传 （日）",
+        "publish": "1"
+    },
+    "Makai Prince Dorabocchan (J)": {
+        "enable_save": "0",
+        "name": "魔界王子 （日）",
+        "publish": "1"
+    },
+    "Makyou Densetsu - The Legendary Axe (J)": {
+        "enable_save": "0",
+        "name": "魔境传说 （日）",
+        "publish": "1"
+    },
+    "Maniac Pro Wrestling - Asu he no Tatakai (J)": {
+        "enable_save": "0",
+        "name": "疯狂摔角 - 明日摔角之星 （日）",
+        "publish": "1"
+    },
+    "Mesopotamia (J)": {
+        "enable_save": "0",
+        "name": "弹弓怪 （日）",
+        "publish": "1"
+    },
+    "Metal Stoker (J)": {
+        "enable_save": "0",
+        "name": "铁甲战车 （日）",
+        "publish": "1"
+    },
+    "Military Madness (U)": {
+        "enable_save": "0",
+        "name": "太空模拟战 （美）",
+        "publish": "1"
+    },
+    "Mizubaku Daibouken (J)": {
+        "enable_save": "0",
+        "name": "水泡先生大冒险 （日）",
+        "publish": "1"
+    },
+    "Momotarou Densetsu Gaiden - Dai 1 Shuu (J)": {
+        "enable_save": "0",
+        "name": "桃太郎传说 Ⅰ （日）",
+        "publish": "1"
+    },
+    "Momotarou Densetsu II (J)": {
+        "enable_save": "0",
+        "name": "桃太郎传说 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Momotarou Densetsu Turbo (J)": {
+        "enable_save": "0",
+        "name": "桃太郎传说加强版 （日）",
+        "publish": "1"
+    },
+    "Momotarou Katsugeki (J)": {
+        "enable_save": "0",
+        "name": "桃太郎活剧 （日）",
+        "publish": "1"
+    },
+    "Monster Pro Wrestling (J)": {
+        "enable_save": "0",
+        "name": "怪兽摔角 （日）",
+        "publish": "1"
+    },
+    "Morita Shougi PC (J)": {
+        "enable_save": "0",
+        "name": "森田将棋 ＰＣ （日）",
+        "publish": "1"
+    },
+    "Moto Roader (J)": {
+        "enable_save": "0",
+        "name": "未来赛车 Ⅰ （日）",
+        "publish": "1"
+    },
+    "Moto Roader (U)": {
+        "enable_save": "0",
+        "name": "未来赛车 Ⅰ （美）",
+        "publish": "1"
+    },
+    "Moto Roader II (J)": {
+        "enable_save": "0",
+        "name": "未来赛车 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Mr. Heli no Daibouken (J)": {
+        "enable_save": "0",
+        "name": "亨利先生大冒险 （日）",
+        "publish": "1"
+    },
+    "NHK Taiga Drama Taiheiki (J)": {
+        "enable_save": "0",
+        "name": "大河剧 - 太平记 （日）",
+        "publish": "1"
+    },
+    "Narazumo no Sentou Butai Bloody Wolf (J)": {
+        "enable_save": "0",
+        "name": "血狼 （日）",
+        "publish": "1"
+    },
+    "Naxat Open (J)": {
+        "enable_save": "0",
+        "name": "Naxat 高尔夫公开赛 （日）",
+        "publish": "1"
+    },
+    "Naxat Stadium (J)": {
+        "enable_save": "0",
+        "name": "Naxat 棒球赛 （日）",
+        "publish": "1"
+    },
+    "Nazo no Masquerade (J)": {
+        "enable_save": "0",
+        "name": "化妆舞会之谜 （日）",
+        "publish": "1"
+    },
+    "Necros no Yousai (J)": {
+        "enable_save": "0",
+        "name": "尼克罗斯要塞 （日）",
+        "publish": "1"
+    },
+    "Nectaris (J)": {
+        "enable_save": "0",
+        "name": "太空模拟战 （日）",
+        "publish": "1"
+    },
+    "Nekketsu Koukou Dodgeball Bu PC Bangai Hen (J)": {
+        "enable_save": "0",
+        "name": "热血高校躲避球部 - ＰＣ番外篇 （日）",
+        "publish": "1"
+    },
+    "Nekketsu Koukou Dodgeball Bu PC Soccer Hen (J)": {
+        "enable_save": "0",
+        "name": "热血高校躲避球部 - ＰＣ足球篇 （日）",
+        "publish": "1"
+    },
+    "Neutopia (J)": {
+        "enable_save": "0",
+        "name": "世界冒险记 Ⅰ （日）",
+        "publish": "1"
+    },
+    "Neutopia (U)": {
+        "enable_save": "0",
+        "name": "世界冒险记 Ⅰ （美）",
+        "publish": "1"
+    },
+    "Neutopia II (J)": {
+        "enable_save": "0",
+        "name": "世界冒险记 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Neutopia II (U)": {
+        "enable_save": "0",
+        "name": "世界冒险记 Ⅱ （美）",
+        "publish": "1"
+    },
+    "New Adventure Island (U) [h1]": {
+        "enable_save": "0",
+        "name": "高桥名人的新冒险岛 （美）",
+        "publish": "1"
+    },
+    "New Zealand Story, The (J)": {
+        "enable_save": "0",
+        "name": "新西兰故事 （日）",
+        "publish": "1"
+    },
+    "Night Creatures (U) [h1]": {
+        "enable_save": "0",
+        "name": "暗夜生物 （美）",
+        "publish": "1"
+    },
+    "NHK Okaasan to Issho Niko Niko Pun (J)": {
+        "enable_save": "0",
+        "name": "树熊历险记 （日）",
+        "publish": "1"
+    },
+    "Ninja Ryukenden (J)": {
+        "enable_save": "0",
+        "name": "忍者龙剑传 （日）",
+        "publish": "1"
+    },
+    "Ninja Spirit (U) [h1]": {
+        "enable_save": "0",
+        "name": "最后忍道 （美）",
+        "publish": "1"
+    },
+    "Ninja Warriors, The (J)": {
+        "enable_save": "0",
+        "name": "忍者战士 （日）",
+        "publish": "1"
+    },
+    "Obocchama-kun (J)": {
+        "enable_save": "0",
+        "name": "少爷历险 （日）",
+        "publish": "1"
+    },
+    "Operation Wolf (J)": {
+        "enable_save": "0",
+        "name": "野狼特攻队 （日）",
+        "publish": "1"
+    },
+    "Order of the Griffon (U) [h1]": {
+        "enable_save": "0",
+        "name": "龙与地下城 - 格里芬的命令 （美）",
+        "publish": "1"
+    },
+    "Ordyne (J)": {
+        "enable_save": "0",
+        "name": "欧坦救美 （日）",
+        "publish": "1"
+    },
+    "Ordyne (U) [h1]": {
+        "enable_save": "0",
+        "name": "欧坦救美 （美）",
+        "publish": "1"
+    },
+    "Out Live - It's Far a Future on Planet (J)": {
+        "enable_save": "0",
+        "name": "战斗装甲人 （日）",
+        "publish": "1"
+    },
+    "OutRun (J)": {
+        "enable_save": "0",
+        "name": "户外大飙车 （日）",
+        "publish": "1"
+    },
+    "Override - Mission Code -Override- (J)": {
+        "enable_save": "0",
+        "name": "超空战机 （日）",
+        "publish": "1"
+    },
+    "P-47 - The Freedom Fighter (J)": {
+        "enable_save": "0",
+        "name": "Ｐ－４７ 自由战机 （日）",
+        "publish": "1"
+    },
+    "PC Denjin - Punkic Cyborgs (J)": {
+        "enable_save": "0",
+        "name": "ＰＣ电人 （日）",
+        "publish": "1"
+    },
+    "PC Genjin - Pithecanthropus Computerurus (J)": {
+        "enable_save": "0",
+        "name": "ＰＣ原人 Ⅰ （日）",
+        "publish": "1"
+    },
+    "PC Genjin 2 - Pithecanthropus Computerurus (J)": {
+        "enable_save": "0",
+        "name": "ＰＣ原人 Ⅱ （日）",
+        "publish": "1"
+    },
+    "PC Genjin 3 - Pithecanthropus Computerurus (J)": {
+        "enable_save": "0",
+        "name": "ＰＣ原人 Ⅲ （日）",
+        "publish": "1"
+    },
+    "PC Genjin 3 Special (J) [!]": {
+        "enable_save": "0",
+        "name": "ＰＣ原人 Ⅲ 特别版 （日）",
+        "publish": "1"
+    },
+    "PC Pachi-Slot 777 (J)": {
+        "enable_save": "0",
+        "name": "水果机 ７７７ （日）",
+        "publish": "1"
+    },
+    "Pac-Land (J)": {
+        "enable_save": "0",
+        "name": "吃豆世界 （日）",
+        "publish": "1"
+    },
+    "Pac-Land (U) [h1]": {
+        "enable_save": "0",
+        "name": "吃豆世界 （美）",
+        "publish": "1"
+    },
+    "Pachiokun Juuban Shoubu (J)": {
+        "enable_save": "0",
+        "name": "柏青哥 - 十番胜负 （日）",
+        "publish": "1"
+    },
+    "Paranoia (J)": {
+        "enable_save": "0",
+        "name": "异次元战机 （日）",
+        "publish": "1"
+    },
+    "Parasol Stars - The Story of Bubble Bobble III (J)": {
+        "enable_save": "0",
+        "name": "彩虹岛 （日）",
+        "publish": "1"
+    },
+    "Parasol Stars - The Story of Bubble Bobble III (U)": {
+        "enable_save": "0",
+        "name": "彩虹岛 （美）",
+        "publish": "1"
+    },
+    "Parodius Da! - Shinwa kara Owarai he (J)": {
+        "enable_save": "0",
+        "name": "疯狂大射击 （日）",
+        "publish": "1"
+    },
+    "Populous (J)": {
+        "enable_save": "0",
+        "name": "都市计划 （日）",
+        "publish": "1"
+    },
+    "Power Drift (J)": {
+        "enable_save": "0",
+        "name": "超级赛车 - 赛车追逐战 （日）",
+        "publish": "1"
+    },
+    "Power Eleven (J)": {
+        "enable_save": "0",
+        "name": "超级足球 （日）",
+        "publish": "1"
+    },
+    "Power Gate (J)": {
+        "enable_save": "0",
+        "name": "超级战斗机 （日）",
+        "publish": "1"
+    },
+    "Power Golf (U) [h1]": {
+        "enable_save": "0",
+        "name": "超级高尔夫 （日）",
+        "publish": "1"
+    },
+    "Power Golf (U)": {
+        "enable_save": "0",
+        "name": "超级高尔夫 （美）",
+        "publish": "1"
+    },
+    "Power League '93 (J)": {
+        "enable_save": "0",
+        "name": "超级棒球联盟 '９３ （日）",
+        "publish": "1"
+    },
+    "Power League (J)": {
+        "enable_save": "0",
+        "name": "超级棒球联盟 Ⅰ （日）",
+        "publish": "1"
+    },
+    "Power League All Stars GOLD (J) [!]": {
+        "enable_save": "0",
+        "name": "超级棒球联盟 - 全明星赛 （日）",
+        "publish": "1"
+    },
+    "Power League IV (J)": {
+        "enable_save": "0",
+        "name": "超级棒球联盟 Ⅳ （日）",
+        "publish": "1"
+    },
+    "Power League V (J)": {
+        "enable_save": "0",
+        "name": "超级棒球联盟 Ⅴ （日）",
+        "publish": "1"
+    },
+    "Power League II (J)": {
+        "enable_save": "0",
+        "name": "超级棒球联盟 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Power League III (J)": {
+        "enable_save": "0",
+        "name": "超级棒球联盟 Ⅲ （日）",
+        "publish": "1"
+    },
+    "Power Sports (J)": {
+        "enable_save": "0",
+        "name": "超级体育大赛 （日）",
+        "publish": "1"
+    },
+    "Power Tennis (J)": {
+        "enable_save": "0",
+        "name": "超级网球 （日）",
+        "publish": "1"
+    },
+    "Pro Tennis World Court (J)": {
+        "enable_save": "0",
+        "name": "世界网球公开赛 （日）",
+        "publish": "1"
+    },
+    "Pro Yakyuu World Stadium '91 (J)": {
+        "enable_save": "0",
+        "name": "世界网球 '９１ （日）",
+        "publish": "1"
+    },
+    "Pro Yakyuu World Stadium (J)": {
+        "enable_save": "0",
+        "name": "世界网球 （日）",
+        "publish": "1"
+    },
+    "Psycho Chaser (J)": {
+        "enable_save": "0",
+        "name": "闪灵悍将 （日）",
+        "publish": "1"
+    },
+    "Psychosis (U) [h1]": {
+        "enable_save": "0",
+        "name": "闪灵悍将 （美）",
+        "publish": "1"
+    },
+    "Puzzle Boy (J)": {
+        "enable_save": "0",
+        "name": "解谜小子 （日）",
+        "publish": "1"
+    },
+    "Puzznic (J)": {
+        "enable_save": "0",
+        "name": "迷魂方块 （日）",
+        "publish": "1"
+    },
+    "Quiz Toukou Shashin (J)": {
+        "enable_save": "0",
+        "name": "写真机智问答 （日）",
+        "publish": "1"
+    },
+    "R-Type (U) [h1]": {
+        "enable_save": "0",
+        "name": "异形战机 （美）",
+        "publish": "1"
+    },
+    "R-Type (J)": {
+        "enable_save": "0",
+        "name": "异形战机 Ⅰ （日）",
+        "publish": "1"
+    },
+    "R-Type Part-2 (J)": {
+        "enable_save": "0",
+        "name": "异形战机 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Rabio Lepus Special (J)": {
+        "enable_save": "0",
+        "name": "太空兔罗比特别版 （日）",
+        "publish": "1"
+    },
+    "Racing Damashii (J)": {
+        "enable_save": "0",
+        "name": "摩托车大赛 （日）",
+        "publish": "1"
+    },
+    "Raiden (J)": {
+        "enable_save": "0",
+        "name": "雷电 （日）",
+        "publish": "1"
+    },
+    "Raiden (U) [h1]": {
+        "enable_save": "0",
+        "name": "雷电 （美）",
+        "publish": "1"
+    },
+    "Rastan Saga II (J)": {
+        "enable_save": "0",
+        "name": "王者之剑 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Rock On (J)": {
+        "enable_save": "0",
+        "name": "摇摆战机 （日）",
+        "publish": "1"
+    },
+    "Ryuukyuu (J)": {
+        "enable_save": "0",
+        "name": "琉球 （日）",
+        "publish": "1"
+    },
+    "Sadakichi Nanaban Series Hideyoshi no Ougon (J)": {
+        "enable_save": "0",
+        "name": "定吉七番系列 - 秀吉的黄金 （日）",
+        "publish": "1"
+    },
+    "Saigo no Nindou - Ninja Spirit (J)": {
+        "enable_save": "0",
+        "name": "最后的忍道 - 忍者之魂 （日）",
+        "publish": "1"
+    },
+    "Salamander (J)": {
+        "enable_save": "0",
+        "name": "沙罗曼蛇 （日）",
+        "publish": "1"
+    },
+    "Samurai Ghost (U) [h1]": {
+        "enable_save": "0",
+        "name": "源平讨魔传 Ⅱ （美）",
+        "publish": "1"
+    },
+    "Sekigahara (J)": {
+        "enable_save": "0",
+        "name": "关原之役 （日）",
+        "publish": "1"
+    },
+    "Sengoku Mahjong (J)": {
+        "enable_save": "0",
+        "name": "战国麻将 （日）",
+        "publish": "1"
+    },
+    "Shanghai (J)": {
+        "enable_save": "0",
+        "name": "上海 （日）",
+        "publish": "1"
+    },
+    "Shinobi (J)": {
+        "enable_save": "0",
+        "name": "忍 （日）",
+        "publish": "1"
+    },
+    "Shiryou Sensen (J)": {
+        "enable_save": "0",
+        "name": "死灵战线 （日）",
+        "publish": "1"
+    },
+    "Shockman (U)": {
+        "enable_save": "0",
+        "name": "改造超人 Ⅱ （美）",
+        "publish": "1"
+    },
+    "Shougi Shodan Icchokusen (J)": {
+        "enable_save": "0",
+        "name": "将棋 - 初段一直线 （日）",
+        "publish": "1"
+    },
+    "Shougi Shoshinsha Muyou (J)": {
+        "enable_save": "0",
+        "name": "将棋 - 初心者无用 （日）",
+        "publish": "1"
+    },
+    "Side Arms - Hyper Dyne (J)": {
+        "enable_save": "0",
+        "name": "绝对合体 （日）",
+        "publish": "1"
+    },
+    "Side Arms - Hyper Dyne (U) [h1]": {
+        "enable_save": "0",
+        "name": "绝对合体 （美）",
+        "publish": "1"
+    },
+    "Silent Debuggers (J)": {
+        "enable_save": "0",
+        "name": "宇宙警备队 （日）",
+        "publish": "1"
+    },
+    "Silent Debuggers (U)": {
+        "enable_save": "0",
+        "name": "宇宙警备队 （美）",
+        "publish": "1"
+    },
+    "Sindibad - Chitei no Daimakyuu (J)": {
+        "enable_save": "0",
+        "name": "辛巴达 - 地底大魔宫 （日）",
+        "publish": "1"
+    },
+    "Sinistron (U) [h1]": {
+        "enable_save": "0",
+        "name": "狂暴战机 （美）",
+        "publish": "1"
+    },
+    "Skweek (J)": {
+        "enable_save": "0",
+        "name": "毛球历险记 （日）",
+        "publish": "1"
+    },
+    "Soldier Blade (J)": {
+        "enable_save": "0",
+        "name": "刀锋战机 （日）",
+        "publish": "1"
+    },
+    "Soldier Blade (U)": {
+        "enable_save": "0",
+        "name": "刀锋战机 （美）",
+        "publish": "1"
+    },
+    "Soldier Blade Special - Caravan Stage (J) [!]": {
+        "enable_save": "0",
+        "name": "刀锋战机特别版 - 大篷车舞台 （日）",
+        "publish": "1"
+    },
+    "Somer Assault (U) [h1]": {
+        "enable_save": "0",
+        "name": "弹弓怪 （美）",
+        "publish": "1"
+    },
+    "Son Son II (J) [T+Eng]": {
+        "enable_save": "0",
+        "name": "西游记 Ⅱ （英）",
+        "publish": "1"
+    },
+    "Son Son II (J)": {
+        "enable_save": "0",
+        "name": "西游记 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Sonic Spike - World Championship Beach Volleyball (U)": {
+        "enable_save": "0",
+        "name": "沙滩排球 （美）",
+        "publish": "1"
+    },
+    "Soukoban World (J)": {
+        "enable_save": "0",
+        "name": "仓库番 （日）",
+        "publish": "1"
+    },
+    "Space Harrier (J)": {
+        "enable_save": "0",
+        "name": "时空战士 （日）",
+        "publish": "1"
+    },
+    "Space Harrier (U)": {
+        "enable_save": "0",
+        "name": "时空战士 （美）",
+        "publish": "1"
+    },
+    "Space Invaders - Fukkatsu no Hi (J)": {
+        "enable_save": "0",
+        "name": "太空入侵者 - 复活之日 （日）",
+        "publish": "1"
+    },
+    "S.C.I. - Special Criminal Investigation (J)": {
+        "enable_save": "0",
+        "name": "追踪刑警 - 特别刑事调查组 （日）",
+        "publish": "1"
+    },
+    "Spin Pair (J)": {
+        "enable_save": "0",
+        "name": "钻石方块 （日）",
+        "publish": "1"
+    },
+    "Spiral Wave (J)": {
+        "enable_save": "0",
+        "name": "旋风任务 （日）",
+        "publish": "1"
+    },
+    "Splatterhouse (J)": {
+        "enable_save": "0",
+        "name": "鬼屋 （日）",
+        "publish": "1"
+    },
+    "Splatterhouse (U)": {
+        "enable_save": "0",
+        "name": "鬼屋 （美）",
+        "publish": "1"
+    },
+    "Stratego (J)": {
+        "enable_save": "0",
+        "name": "开心苹果棋 （日）",
+        "publish": "1"
+    },
+    "Street Fighter II' - Champion Edition (J)": {
+        "enable_save": "0",
+        "name": "街头霸王 Ⅱ - 四大天王 （日）",
+        "publish": "1"
+    },
+    "Strip Fighter II (J)": {
+        "enable_save": "0",
+        "name": "女人快打 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Super Metal Crusher (J)": {
+        "enable_save": "0",
+        "name": "超级金属杀手 （日）",
+        "publish": "1"
+    },
+    "Super Momotarou Dentetsu (J)": {
+        "enable_save": "0",
+        "name": "超级桃太郎电铁 Ⅰ （日）",
+        "publish": "1"
+    },
+    "Super Momotarou Dentetsu II (J)": {
+        "enable_save": "0",
+        "name": "超级桃太郎电铁 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Super Star Soldier (J)": {
+        "enable_save": "0",
+        "name": "超级星际战士 （日）",
+        "publish": "1"
+    },
+    "Super Star Soldier (U) [h1]": {
+        "enable_save": "0",
+        "name": "超级星际战士 （美）",
+        "publish": "1"
+    },
+    "Super Volley Ball (J)": {
+        "enable_save": "0",
+        "name": "超级排球 （日）",
+        "publish": "1"
+    },
+    "Super Volley Ball (U) [h1]": {
+        "enable_save": "0",
+        "name": "超级排球 （美）",
+        "publish": "1"
+    },
+    "Susanoou Densetsu (J)": {
+        "enable_save": "0",
+        "name": "凄狂传说 （日）",
+        "publish": "1"
+    },
+    "TV Sports Basketball (J)": {
+        "enable_save": "0",
+        "name": "实况篮球 （日）",
+        "publish": "1"
+    },
+    "TV Sports Basketball (U) [h1]": {
+        "enable_save": "0",
+        "name": "实况篮球 （美）",
+        "publish": "1"
+    },
+    "TV Sports Football (J)": {
+        "enable_save": "0",
+        "name": "实况橄榄球 （日）",
+        "publish": "1"
+    },
+    "TV Sports Football (U)": {
+        "enable_save": "0",
+        "name": "实况橄榄球 （美）",
+        "publish": "1"
+    },
+    "TV Sports Hockey (J)": {
+        "enable_save": "0",
+        "name": "实况冰球 （日）",
+        "publish": "1"
+    },
+    "TV Sports Hockey (U) [h1]": {
+        "enable_save": "0",
+        "name": "实况冰球 （美）",
+        "publish": "1"
+    },
+    "Taito Chase H.Q. (J)": {
+        "enable_save": "0",
+        "name": "追踪 Ｈ.Ｑ. （日）",
+        "publish": "1"
+    },
+    "Taito Chase H.Q. (U) [h1]": {
+        "enable_save": "0",
+        "name": "追踪 Ｈ.Ｑ. （美）",
+        "publish": "1"
+    },
+    "Takahashi Meijin no Shin Bouken Jima (J)": {
+        "enable_save": "0",
+        "name": "高桥名人的新冒险岛 （日）",
+        "publish": "1"
+    },
+    "Takeda Shingen (J)": {
+        "enable_save": "0",
+        "name": "武田信玄 （日）",
+        "publish": "1"
+    },
+    "Takin' It to the Hoop (U) [h1]": {
+        "enable_save": "0",
+        "name": "美国篮球 （美）",
+        "publish": "1"
+    },
+    "TaleSpin (U) [h1]": {
+        "enable_save": "0",
+        "name": "泰瑞熊 （美）",
+        "publish": "1"
+    },
+    "Tatsujin (J)": {
+        "enable_save": "0",
+        "name": "宇宙达人 （日）",
+        "publish": "1"
+    },
+    "Tatsu no Ko Fighter (J)": {
+        "enable_save": "0",
+        "name": "龙子太郎 （日）",
+        "publish": "1"
+    },
+    "Ten no Koe Memory Bank (J)": {
+        "enable_save": "0",
+        "name": "天之声 （日）",
+        "publish": "1"
+    },
+    "Tenseiryuu - Saint Dragon (J)": {
+        "enable_save": "0",
+        "name": "天圣龙 （日）",
+        "publish": "1"
+    },
+    "Terra Cresta II - Mandrer no Gyakushuu (J)": {
+        "enable_save": "0",
+        "name": "逆袭 Ⅱ - 曼德勒的逆袭 （日）",
+        "publish": "1"
+    },
+    "Thunder Blade (J)": {
+        "enable_save": "0",
+        "name": "战斗直升机 （日）",
+        "publish": "1"
+    },
+    "Tiger Road (U) [h1]": {
+        "enable_save": "0",
+        "name": "虎之道 （美）",
+        "publish": "1"
+    },
+    "Time Cruise (U) [h1]": {
+        "enable_save": "0",
+        "name": "时空弹珠台 （美）",
+        "publish": "1"
+    },
+    "Time Cruise II (J)": {
+        "enable_save": "0",
+        "name": "时空弹珠台 Ⅱ （日）",
+        "publish": "1"
+    },
+    "Timeball (U) [h1]": {
+        "enable_save": "0",
+        "name": "时光球 （美）",
+        "publish": "1"
+    },
+    "Titan (J)": {
+        "enable_save": "0",
+        "name": "泰坦球 （日）",
+        "publish": "1"
+    },
+    "Toilet Kids (J)": {
+        "enable_save": "0",
+        "name": "马桶小子 （日）",
+        "publish": "1"
+    },
+    "Tora eno Michi - Tiger Road (J)": {
+        "enable_save": "0",
+        "name": "虎之道 （日）",
+        "publish": "1"
+    },
+    "Tower of Druaga, The - Druaga no Tou (J)": {
+        "enable_save": "0",
+        "name": "龙之塔 （日）",
+        "publish": "1"
+    },
+    "Toy Shop Boys (J)": {
+        "enable_save": "0",
+        "name": "玩具小子 （日）",
+        "publish": "1"
+    },
+    "Tricky (J)": {
+        "enable_save": "0",
+        "name": "动物金头脑 （日）",
+        "publish": "1"
+    },
+    "Tricky Kick (U) [h1]": {
+        "enable_save": "0",
+        "name": "动物金头脑 （美）",
+        "publish": "1"
+    },
+    "Tsuppari Oozumo - Heiseiban (J)": {
+        "enable_save": "0",
+        "name": "平成大相扑 （日）",
+        "publish": "1"
+    },
+    "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (J)": {
+        "enable_save": "0",
+        "name": "都留照人之实战 （日）",
+        "publish": "1"
+    },
+    "Turrican (U) [h1]": {
+        "enable_save": "0",
+        "name": "外星悍将 （美）",
+        "publish": "1"
+    },
+    "USA Pro Basketball (J)": {
+        "enable_save": "0",
+        "name": "美国篮球 （日）",
+        "publish": "1"
+    },
+    "Valkyrie no Densetsu (J)": {
+        "enable_save": "0",
+        "name": "女武士传说 （日）",
+        "publish": "1"
+    },
+    "Veigues Tactical Gladiator (J)": {
+        "enable_save": "0",
+        "name": "铁甲战士 （日）",
+        "publish": "1"
+    },
+    "Veigues Tactical Gladiator (U) [h1]": {
+        "enable_save": "0",
+        "name": "铁甲战士 （美）",
+        "publish": "1"
+    },
+    "Victory Run (J)": {
+        "enable_save": "0",
+        "name": "胜利赛车 （日）",
+        "publish": "1"
+    },
+    "Victory Run (U) [h1]": {
+        "enable_save": "0",
+        "name": "胜利赛车 （美）",
+        "publish": "1"
+    },
+    "Vigilante (J)": {
+        "enable_save": "0",
+        "name": "义警 （日）",
+        "publish": "1"
+    },
+    "Vigilante (U) [h1]": {
+        "enable_save": "0",
+        "name": "义警 （美）",
+        "publish": "1"
+    },
+    "Violent Soldier (J)": {
+        "enable_save": "0",
+        "name": "狂暴战机 （日）",
+        "publish": "1"
+    },
+    "Volfied (J)": {
+        "enable_save": "0",
+        "name": "划线之盾 （日）",
+        "publish": "1"
+    },
+    "W Ring - The Double Rings (J)": {
+        "enable_save": "0",
+        "name": "宇宙双鹰 （日）",
+        "publish": "1"
+    },
+    "Wai Wai Mahjong - Yukai na Janyuutachi (J)": {
+        "enable_save": "0",
+        "name": "哇哇麻将 - 快乐雀友 （日）",
+        "publish": "1"
+    },
+    "Usagi no Kuni no Kangaroo Race Wallaby!! (J)": {
+        "enable_save": "0",
+        "name": "兔之国袋鼠赛跑 （日）",
+        "publish": "1"
+    },
+    "Winning Shot (J)": {
+        "enable_save": "0",
+        "name": "胜利高尔夫 （日）",
+        "publish": "1"
+    },
+    "Wonder Momo (J)": {
+        "enable_save": "0",
+        "name": "神奇女孩莫莫 （日）",
+        "publish": "1"
+    },
+    "World Beach Volley (J)": {
+        "enable_save": "0",
+        "name": "世界沙滩排球 （日）",
+        "publish": "1"
+    },
+    "World Circuit (J)": {
+        "enable_save": "0",
+        "name": "世界赛车 （日）",
+        "publish": "1"
+    },
+    "World Class Baseball (U) [h1]": {
+        "enable_save": "0",
+        "name": "世界棒球 （美）",
+        "publish": "1"
+    },
+    "World Court Tennis (U) [h1]": {
+        "enable_save": "0",
+        "name": "世界网球 （美）",
+        "publish": "1"
+    },
+    "World Jockey (J)": {
+        "enable_save": "0",
+        "name": "世界赛马 （日）",
+        "publish": "1"
+    },
+    "World Sports Competition (U)": {
+        "enable_save": "0",
+        "name": "世界总动员 （美）",
+        "publish": "1"
+    },
+    "Xevious - Fardraut Densetsu (J)": {
+        "enable_save": "0",
+        "name": "铁板阵传说 （日）",
+        "publish": "1"
+    },
+    "Yo, Bro (U) [h1]": {
+        "enable_save": "0",
+        "name": "滑板兄弟 （美）",
+        "publish": "1"
+    },
+    "Youkai Douchuuki (J) [h1]": {
+        "enable_save": "0",
+        "name": "妖怪道中记 （日）",
+        "publish": "1"
+    },
+    "Victory Life - Yuu Yuu Jinsei (J)": {
+        "enable_save": "0",
+        "name": "游游人生 （日）",
+        "publish": "1"
+    },
+    "Zero 4 Champ (J)": {
+        "enable_save": "0",
+        "name": "房车大赛 （日）",
+        "publish": "1"
+    },
+    "Zipang (J)": {
+        "enable_save": "0",
+        "name": "所罗门之钥 - 黄金孔雀城 （日）",
+        "publish": "1"
+    },
+    "_cover_height": 112,
+    "_cover_width": 112
+}
