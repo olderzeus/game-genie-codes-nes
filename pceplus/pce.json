@@ -1,4 +1,89 @@
 {
+    "Hit the Ice - VHL - The Video Hockey League (J)": {
+        "enable_save": "0",
+        "name": "暴力冰球 （日）",
+        "FailReason": "启动崩溃蓝屏",
+        "publish": "1"
+    },
+    "Hit the Ice - VHL - The Video Hockey League (U) [!]": {
+        "enable_save": "0",
+        "name": "暴力冰球 （美）",
+        "FailReason": "启动崩溃蓝屏",
+        "publish": "1"
+    },
+    "Battle Royale (U)": {
+        "enable_save": "0",
+        "name": "金腰带争霸战 （美）",
+        "FailReason": "启动崩溃蓝屏",
+        "publish": "1"
+    },
+    "World Sports Competition (U)": {
+        "enable_save": "0",
+        "name": "世界总动员 （美）",
+        "FailReason": "启动崩溃蓝屏",
+        "publish": "1"
+    },
+    "Legend of Hero Tonma (U)": {
+        "enable_save": "0",
+        "name": "小英雄托马 （美）",
+        "FailReason": "启动黑屏无信息",
+        "publish": "1"
+    },
+    "Champions Forever Boxing (U)": {
+        "enable_save": "0",
+        "name": "霸王拳击 （美）",
+        "FailReason": "启动版权信息后黑屏无信息",
+        "publish": "1"
+    },
+    "Takeda Shingen (J)": {
+        "enable_save": "0",
+        "name": "武田信玄 （日）",
+        "FailReason": "启动黑屏无信息",
+        "publish": "1"
+    },
+    "Toy Shop Boys (J)": {
+        "enable_save": "0",
+        "name": "玩具小子 （日）",
+        "FailReason": "启动黑屏无信息",
+        "publish": "1"
+    },
+
+    "Takin' It to the Hoop (U) [h1]": {
+        "enable_save": "0",
+        "name": "美国篮球 （美）",
+        "FailReason": "屏幕贴图错误",
+        "publish": "1"
+    },
+    "USA Pro Basketball (J)": {
+        "enable_save": "0",
+        "name": "美国篮球 （日）",
+        "FailReason": "屏幕贴图错误",
+        "publish": "1"
+    },
+    "Makai Hakkenden Shada (J)": {
+        "enable_save": "0",
+        "name": "魔界八犬传 （日）",
+        "FailReason": "屏幕贴图错误",
+        "publish": "1"
+    },
+    "Deep Blue (U) [h1]": {
+        "enable_save": "0",
+        "name": "海底神话 （美）",
+        "FailReason": "屏幕贴图背景缺失",
+        "publish": "1"
+    },
+    "Deep Blue - Kaitei Shinwa (J)": {
+        "enable_save": "0",
+        "name": "海底神话 （日）",
+        "FailReason": "屏幕贴图背景缺失",
+        "publish": "1"
+    },
+    "Yo, Bro (U) [h1]": {
+        "enable_save": "0",
+        "name": "滑板兄弟 （美）",
+        "FailReason": "屏幕贴图错误",
+        "publish": "1"
+    },
     "Super Mario Bros (J) [p1]": {
         "enable_save": "0",
         "name": "超级马里奥兄弟（日）",
@@ -29,7 +114,7 @@
         "name": "２１卫门 - 旅馆王 （日）",
         "publish": "1"
     },
-    "AV Poker - World Gambler (J)": {
+    "Av Poker (J)": {
         "enable_save": "0",
         "name": "ＡＶ扑克牌 （日）",
         "publish": "1"
@@ -51,7 +136,7 @@
     },
     "After Burner II (J)": {
         "enable_save": "0",
-        "name": "冲破火网Ⅱ （日）",
+        "name": "冲破火网 Ⅱ （日）",
         "publish": "1"
     },
     "Air Zonk (U) [h1]": {
@@ -139,11 +224,6 @@
         "name": "战斗淘金者 （日）",
         "publish": "1"
     },
-    "Battle Royale (U)": {
-        "enable_save": "0",
-        "name": "金腰带争霸战 （美）",
-        "publish": "1"
-    },
     "Be Ball (J) [h1]": {
         "enable_save": "0",
         "name": "太极球 （日）",
@@ -181,7 +261,7 @@
     },
     "Body Conquest II (J)": {
         "enable_save": "0",
-        "name": "美女外传Ⅱ （日）",
+        "name": "美女外传 Ⅱ （日）",
         "publish": "1"
     },
     "Bomberman '93 (J)": {
@@ -289,12 +369,7 @@
         "name": "疯狂摔角 （日）",
         "publish": "1"
     },
-    "Champions Forever Boxing (U)": {
-        "enable_save": "0",
-        "name": "霸王拳击 （美）",
-        "publish": "1"
-    },
-    "Chew-Man-Fu (U)": {
+    "Chew Man Fu (U) [h1]": {
         "enable_save": "0",
         "name": "太极球 （美）",
         "publish": "1"
@@ -386,7 +461,7 @@
     },
     "Darius Plus (J)": {
         "enable_save": "0",
-        "name": "(SGX)太空战斗机加强版 （日）",
+        "name": "太空战斗机加强版 （日）",
         "publish": "1"
     },
     "Darkwing Duck (U) [h1]": {
@@ -407,16 +482,6 @@
     "Dead Moon - Tsuki Sekai no Akumu (J)": {
         "enable_save": "0",
         "name": "死亡之月 （日）",
-        "publish": "1"
-    },
-    "Deep Blue (U) [h1]": {
-        "enable_save": "0",
-        "name": "海底神话 （美）",
-        "publish": "1"
-    },
-    "Deep Blue - Kaitei Shinwa (J)": {
-        "enable_save": "0",
-        "name": "海底神话 （日）",
         "publish": "1"
     },
     "Detana!! TwinBee (J)": {
@@ -704,11 +769,6 @@
         "name": "毛毛虫 （日）",
         "publish": "1"
     },
-    "Gomola Speed (J) [a1]": {
-        "enable_save": "0",
-        "name": "毛毛虫 （日）",
-        "publish": "1"
-    },
     "Gradius (J)": {
         "enable_save": "0",
         "name": "宇宙巡航舰 （日）",
@@ -757,16 +817,6 @@
     "Hisou Kihei X Serd (J)": {
         "enable_save": "0",
         "name": "飞装骑兵 （日）",
-        "publish": "1"
-    },
-    "Hit the Ice - VHL - The Video Hockey League (J)": {
-        "enable_save": "0",
-        "name": "暴力冰球 （日）",
-        "publish": "1"
-    },
-    "Hit the Ice - VHL - The Video Hockey League (U) [!]": {
-        "enable_save": "0",
-        "name": "暴力冰球 （美）",
         "publish": "1"
     },
     "Honoo no Toukyuuji Dodge Danpei (J)": {
@@ -944,11 +994,6 @@
         "name": "小英雄托马 （日）",
         "publish": "1"
     },
-    "Legend of Hero Tonma (U)": {
-        "enable_save": "0",
-        "name": "小英雄托马 （美）",
-        "publish": "1"
-    },
     "Legendary Axe II, The (U) [h1]": {
         "enable_save": "0",
         "name": "战斧传说 Ⅱ （美）",
@@ -1004,7 +1049,7 @@
         "name": "麻将霸王传 - 凯撒的任务 （日）",
         "publish": "1"
     },
-    "Mahjong Shikaku Retsuden - Mahjong Wars (J)": {
+    "Mahjong Shikaka Retsuden Mahjong Wars (J)": {
         "enable_save": "0",
         "name": "麻将刺客列传 - 麻将战争 （日）",
         "publish": "1"
@@ -1017,11 +1062,6 @@
     "Majin Eiyuu Den Wataru (J)": {
         "enable_save": "0",
         "name": "魔神英雄传 （日）",
-        "publish": "1"
-    },
-    "Makai Hakkenden Shada (J)": {
-        "enable_save": "0",
-        "name": "魔界八犬传 （日）",
         "publish": "1"
     },
     "Makai Prince Dorabocchan (J)": {
@@ -1094,7 +1134,7 @@
         "name": "未来赛车 Ⅰ （日）",
         "publish": "1"
     },
-    "Moto Roader (U)": {
+    "Moto Roader (U) [h1]": {
         "enable_save": "0",
         "name": "未来赛车 Ⅰ （美）",
         "publish": "1"
@@ -1209,7 +1249,7 @@
         "name": "忍者战士 （日）",
         "publish": "1"
     },
-    "Obocchama-kun (J)": {
+    "Obocchamakun (J)": {
         "enable_save": "0",
         "name": "少爷历险 （日）",
         "publish": "1"
@@ -1341,10 +1381,10 @@
     },
     "Power Golf (U) [h1]": {
         "enable_save": "0",
-        "name": "超级高尔夫 （日）",
+        "name": "超级高尔夫 （美）",
         "publish": "1"
     },
-    "Power Golf (U)": {
+    "Power Golf (J)": {
         "enable_save": "0",
         "name": "超级高尔夫 （美）",
         "publish": "1"
@@ -1529,7 +1569,7 @@
         "name": "死灵战线 （日）",
         "publish": "1"
     },
-    "Shockman (U)": {
+    "ShockMan (U) [h1]": {
         "enable_save": "0",
         "name": "改造超人 Ⅱ （美）",
         "publish": "1"
@@ -1584,7 +1624,7 @@
         "name": "刀锋战机 （日）",
         "publish": "1"
     },
-    "Soldier Blade (U)": {
+    "Soldier Blade (U) [h1]": {
         "enable_save": "0",
         "name": "刀锋战机 （美）",
         "publish": "1"
@@ -1609,7 +1649,7 @@
         "name": "西游记 Ⅱ （日）",
         "publish": "1"
     },
-    "Sonic Spike - World Championship Beach Volleyball (U)": {
+    "Sonic Spike - World Championship Beach Volleyball (U) [h1]": {
         "enable_save": "0",
         "name": "沙滩排球 （美）",
         "publish": "1"
@@ -1759,16 +1799,6 @@
         "name": "高桥名人的新冒险岛 （日）",
         "publish": "1"
     },
-    "Takeda Shingen (J)": {
-        "enable_save": "0",
-        "name": "武田信玄 （日）",
-        "publish": "1"
-    },
-    "Takin' It to the Hoop (U) [h1]": {
-        "enable_save": "0",
-        "name": "美国篮球 （美）",
-        "publish": "1"
-    },
     "TaleSpin (U) [h1]": {
         "enable_save": "0",
         "name": "泰瑞熊 （美）",
@@ -1844,11 +1874,6 @@
         "name": "龙之塔 （日）",
         "publish": "1"
     },
-    "Toy Shop Boys (J)": {
-        "enable_save": "0",
-        "name": "玩具小子 （日）",
-        "publish": "1"
-    },
     "Tricky (J)": {
         "enable_save": "0",
         "name": "动物金头脑 （日）",
@@ -1872,11 +1897,6 @@
     "Turrican (U) [h1]": {
         "enable_save": "0",
         "name": "外星悍将 （美）",
-        "publish": "1"
-    },
-    "USA Pro Basketball (J)": {
-        "enable_save": "0",
-        "name": "美国篮球 （日）",
         "publish": "1"
     },
     "Valkyrie no Densetsu (J)": {
@@ -1974,19 +1994,9 @@
         "name": "世界赛马 （日）",
         "publish": "1"
     },
-    "World Sports Competition (U)": {
-        "enable_save": "0",
-        "name": "世界总动员 （美）",
-        "publish": "1"
-    },
     "Xevious - Fardraut Densetsu (J)": {
         "enable_save": "0",
         "name": "铁板阵传说 （日）",
-        "publish": "1"
-    },
-    "Yo, Bro (U) [h1]": {
-        "enable_save": "0",
-        "name": "滑板兄弟 （美）",
         "publish": "1"
     },
     "Youkai Douchuuki (J) [h1]": {

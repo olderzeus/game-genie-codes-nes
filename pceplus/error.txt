@@ -1,0 +1,64 @@
+    "Champions Forever Boxing (U)": {
+        "name": "霸王拳击 （美）启动画面后黑屏"
+    },
+
+    "Hit the Ice - VHL - The Video Hockey League (U) [!]": {
+        "name": "暴力冰球 （美）启动蓝屏崩溃"
+    },
+
+    "Hit the Ice - VHL - The Video Hockey League (J)": {
+        "name": "暴力冰球 （日）画面闪"
+    },
+    "Deep Blue (U) [h1]": {
+        "name": "海底神话 （美）无背景贴图"
+    },
+    "Deep Blue - Kaitei Shinwa (J)": {
+        "name": "海底神话 （日）无背景贴图"
+    },
+    "Yo, Bro (U) [h1]": {
+        "name": "滑板兄弟 （美）贴图错误"
+    },
+    "Battle Royale (U)": {
+        "name": "金腰带争霸战 （美）启动蓝屏"
+    },
+    "Cadash (U)": {
+        "name": "卡达叙传说 （美）蓝屏"
+    },
+
+    "Gomola Speed (J)": {
+        "name": "毛毛虫 （日）蓝屏"
+    },
+    "USA Pro Basketball (J)": {
+        "name": "美国篮球 （日）贴图错误"
+    },
+    "Takin' It to the Hoop (U) [h1]": {
+        "name": "美国篮球 （美）贴图错误"
+    },
+
+    "Makai Hakkenden Shada (J)": {
+        "name": "魔界八犬传 （日）花屏"
+    },
+
+    "Space Harrier (U)": {
+        "name": "时空战士 （美）蓝屏"
+    },
+
+    "TV Sports Football (U)": {
+        "name": "实况橄榄球 （美）蓝屏"
+    },
+
+    "Legend of Hero Tonma (U)": {
+        "name": "小英雄托马 （美）黑屏"
+    },
+
+    "Takeda Shingen (J)": {
+        "name": "武田信玄 （日）黑屏"
+    },
+
+    "Toy Shop Boys (J)": {
+        "name": "玩具小子 （日）黑屏"
+    },
+
+    "World Sports Competition (U)": {
+        "name": "世界总动员 （美）"
+    },
